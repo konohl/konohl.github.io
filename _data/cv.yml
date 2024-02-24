@@ -29,17 +29,17 @@
       institution: Department of Earth Sciences, University of Hong Kong, Hong Kong SAR
       year: 2009 - pres.
       description:
-        - <b>Research</b>: Mass spectrometry, ab initio calculations, molecular complexes and clusters
+        - ICR FT-MS, IRMPD Spectroscopy, CPMD, complexes and clusters
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Postdoctoral fellow
+      institution: ETH Zurich, Zurich, Switzerland
+      year: 2003-2008
       description:
-        - Description 1.
-        - Description 2.
+        - Ion mass spectrometry, DFT, proton hydration
+        - 
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
