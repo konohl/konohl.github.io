@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Stanford University, CA, USA
+      institution: Stanford University, Palo Alto, USA
       year: 2003
       description:
         - Hydrothermal chemistry, origins of life
@@ -30,9 +30,9 @@
 - title: Work
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Professor of Geochemistry
+      institution: Department of Earth Sciences, University of Hong Kong
+      year: 2009 - pres.
       description:
         - Description 1.
         - Description 2.
