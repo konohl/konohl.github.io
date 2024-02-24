@@ -35,15 +35,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Stanford University, CA, US",
+      "location": "Palo Alto, US",
+      "url": "https://epsci.stanford.edu/",
+      "area": "Hydrothermal Chemistry",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "98-09",
+      "endDate": "03-12",
+      "score": "",
+      "courses": ["Earth sciences/Chemistry"]
     }
   ],
   "awards": [
