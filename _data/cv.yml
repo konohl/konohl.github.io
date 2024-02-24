@@ -22,22 +22,22 @@
       description:
         - Geochemistry, Molecular Dynamics
 
-- title: Work 😃
+- title: Work
   type: time_table
   contents:
     - title: Professor of Geochemistry
-      institution: Department of Earth Sciences, HKU, Hong Kong
+      institution: Department of Earth Sciences, HKU, 🇭🇰
       year: 2009 - pres.
       description:
         - ICR FT-MS, IRMPD Spectroscopy, CPMD, complexes and clusters
     - title: Postdoctoral fellow
-      institution: ETH Zurich, Zurich, Switzerland
+      institution: ETH Zurich, Zurich, 🇨🇭
       year: 2003-2008
       description:
         - Ion mass spectrometry, DFT, proton hydration
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Research assistant
+      institution: USGS Hydrothermal labs, Menlo Park, 🇺🇸
+      year: 1999-2003
 
     - title: Professor of Theoretical Physics
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
