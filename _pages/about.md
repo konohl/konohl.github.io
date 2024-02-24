@@ -19,8 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p style="text-align: justify;"> We study ore fluids using a combination of mass spectrometry, IR spectroscopy, and IR lasers that help us to measure the structure and stability of small molecular clusters in liquid water and vapor. Our setup consists of a modified Bruker ICR FT mass spectrometer, a OPO/OPA laser system with tunable mid-IR radiation, and a custom-built hydrothermal cell linked to a UV-vis spectrophotometer. We also employ static and ab initio MD calculations to analyze molecular cluster structures and properties.</p>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As an instructor I teach courses in aqueous geochemistry `(EASC2401), (EASC2406)`, the science underpinning WMD system and the implications on proliferation and terrorism`(CCGL9033)`, and the origins of life `(CCST9018)`.
