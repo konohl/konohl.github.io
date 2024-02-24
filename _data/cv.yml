@@ -12,15 +12,15 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Stanford University, Palo Alto, USA
+      institution: Stanford University, Palo Alto, 🇺🇸
       year: 1998-2003
       description:
-        - Hydrothermal organic chemistry, origins of life
+        - prebiotic organic synthesis, hydrothermal chemistry
     - title: M.Sc.
-      institution: University of Bristol, UK
+      institution: University of Bristol, Bristol, 🇬🇧
       year: 1995-1998
       description:
-        - Geochemistry, Molecular Dynamics
+        - geochemistry, molecular dynamics
 
 - title: Work
   type: time_table
@@ -29,17 +29,17 @@
       institution: Department of Earth Sciences, HKU, 🇭🇰
       year: 2009 - pres.
       description:
-        - ICR FT-MS, IRMPD Spectroscopy, CPMD, complexes and clusters
+        - ICR FT-mass spectrometry, IRMPD spectroscopy, CPMD, molecular complexes and clusters
     - title: Postdoctoral fellow
       institution: ETH Zurich, Zurich, 🇨🇭
       year: 2003-2008
       description:
-        - Ion mass spectrometry, DFT, proton hydration
+        - uvvis-spectroscopy, DFT, MP2 CCSD, proton solvation, ion clusters
     - title: Research assistant
       institution: USGS Hydrothermal labs, Menlo Park, 🇺🇸
       year: 1999-2003
       description:
-        - Hydrothermal organic chemistry, origins of life
+        - prebiotic organic synthesis, hydrothermal chemistry
 
 - title: Open Source Projects
   type: time_table
@@ -59,7 +59,7 @@
       items:
         - Max Planck Medal
 
-- title: Academic Interests
+- title: Notable publications
   type: nested_list
   contents:
     - title: Topic 1.
@@ -70,6 +70,15 @@
       items:
         - Description 1.
         - Description 2.
+    {
+      "name": "Molecular clusters and solvation in volcanic and hydrothermal vapors",
+      "publisher": "Reviews in Mineralogy and Geochemistry",
+      "releaseDate": "2018-06-30",
+      "url": "http://dx.doi.org/10.2138/rmg.2018.84.02",
+      "summary": "This paper represents the culmination of a long collaboration with Terry Seward at the ETH Zürich, where we examined steam and water vapor chemistry in the Earth's crust."
+    },
+
+
 
 - title: Other Interests
   type: list
