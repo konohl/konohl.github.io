@@ -12,8 +12,8 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Stanford University, CA, USA
+      year: 2003
       description:
         - Description 1.
         - Description 2.
@@ -21,12 +21,11 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: M.Sc.
+      institution: University of Bristol, UK
+      year: 1998
       description:
-        - Description 1.
-        - Description 2.
+        - Geochemistry, Molecular Dynamics
 
 - title: Work
   type: time_table
