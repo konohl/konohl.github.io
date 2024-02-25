@@ -41,12 +41,20 @@
       description:
         - prebiotic organic synthesis, hydrothermal chemistry
 
+- title: Notable publications
+  type: time_table
+  contents:
+    - title: <a href="https://doi.org/10.1515/rmg.2018.84.02">"Molecular clusters and solvation in volcanic and hydrothermal vapors"</a> <i>Reviews in Mineralogy and Geochemistry, 2018, 84, 57-83.<i/>
+      year: 2018
+      items: This paper represents the culmination of a long collaboration with Terry Seward at the ETH Zürich, where we examined steam and water vapor chemistry in the Earth's crust."
+
 - title: Open Source Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      description: This paper represents the culmination of a long collaboration with Terry Seward at the ETH Zürich, where we examined steam and water vapor chemistry in the Earth's crust."
+  
 
 - title: Honors and Awards
   type: time_table
@@ -59,7 +67,7 @@
       items:
         - Max Planck Medal
 
-- title: Notable publications
+- title: Academic Interests
   type: nested_list
   contents:
     - title: Topic 1.
@@ -70,15 +78,6 @@
       items:
         - Description 1.
         - Description 2.
-    {
-      "name": "Molecular clusters and solvation in volcanic and hydrothermal vapors",
-      "publisher": "Reviews in Mineralogy and Geochemistry",
-      "releaseDate": "2018-06-30",
-      "url": "http://dx.doi.org/10.2138/rmg.2018.84.02",
-      "summary": "This paper represents the culmination of a long collaboration with Terry Seward at the ETH Zürich, where we examined steam and water vapor chemistry in the Earth's crust."
-    },
-
-
 
 - title: Other Interests
   type: list
