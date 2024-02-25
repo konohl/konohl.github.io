@@ -41,20 +41,33 @@
       description:
         - prebiotic organic synthesis, hydrothermal chemistry
 
-- title: Notable publications
+- title: Notable publications 
   type: time_table
   contents:
-    - title: <a href="https://doi.org/10.1515/rmg.2018.84.02">"Molecular clusters and solvation in volcanic and hydrothermal vapors"</a> <i>Reviews in Mineralogy and Geochemistry, 2018, 84, 57-83.<i/>
+    - title: KH Lemke<a href="https://doi.org/10.1039/D1CP02524D">  | Structure and solvation dynamics of the hydroxide ion in ice-like water clusters, a CCSD(T) and car–parrinello molecular dynamics study 📃 |</a> <i>Phys.Chem.Chem.Phys.</i>, 23, 18990.
+      year: 2021
+      items: <i>This CPMD study examines hydroxide-water clusters, reporting structures and temperature-dependent behavior, and hopw these impact OH- ion solvation in nanodroplets and aqueous interfaces.<i/>
+
+    - title: KH Lemke, TM Seward <a href="https://doi.org/10.1515/rmg.2018.84.02">| Molecular clusters and solvation in volcanic and hydrothermal vapors 📃 |</a> <i>Rev.Min.Geochem.</i>, 84, 57.
       year: 2018
-      items: This paper represents the culmination of a long collaboration with Terry Seward at the ETH Zürich, where we examined steam and water vapor chemistry in the Earth's crust."
+      items: <i>This paper represents the culmination of a long collaboration with Terry Seward at the ETH Zürich, in which we examined steam and water vapor chemistry in the Earth's crust.<i/>
+
+    - title: KH Lemke <a href="https://doi.org/10.1063/1.4985094">| Structure and binding energy of the H<sub>2</sub>S dimer at the CCSD(T) complete basis set limit 📃 |</a> <i>J.Chem.Phys</i>, 146, 234301.
+      year: 2017
+      items: <i>This study employs CCSD(T)/CBS theory to explore binding in the H<sub>2</sub>S dimer, showcasing the importance of HS<sup>...</sup>H hydrogen-bonds in fields such as protein chemistry, physical chemistry, and metal transport in the Earth's crust.<i/>
+
+    - title: KH Lemke, TM Seward <a href="https://doi.org/10.1063/1.4985094">| Thermodynamic properties of carbon dioxide clusters by M06-2X and dispersion-corrected B2PLYP-D theory 📃 |</a> <i>J.Chem.Phys</i>, 146, 234301.
+      year: 2013
+      items: <i>This is a DFT study (with Terry Seward), in which we analyze (CO<sub>2</sub>)<sub>n</sub> clusters, finding that icosahedral (CO<sub>2</sub>)<sub>13</sub>  plays a key role for understanding carbon dioxide ice formation in Mars's atmosphere.<i/>
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: This paper represents the culmination of a long collaboration with Terry Seward at the ETH Zürich, where we examined steam and water vapor chemistry in the Earth's crust."
-  
+    - title: <a href="https://github.com/alshedivat/al-folio">CBS extrapotation calculator</a>
+      year: 2021-now
+      description: 
+      items: <i>e ice.<i/>
+
 
 - title: Honors and Awards
   type: time_table
