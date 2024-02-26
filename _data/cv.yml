@@ -63,34 +63,30 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">CBS extrapotation calculator</a>
+    - title: <a href="https://replit.com/@konolemke/CBSExtrapolation#main.py">CBS extrapolation calculator</a>
       year: 2021-now
       description: 
-      items: <i>e ice.<i/>
+      items: Code hosted at replit.com, performs Gaussian/exponential extrapolation scheme for any property using correlation consistent basis sets up to n=6; it fits and plots the CBS extrapolation alongside experimental values for comparison.
 
 
-- title: Honors and Awards
+- title: Research Funding
   type: time_table
   contents:
-    - year: 1921
+    - year:  2023/2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Horray!! RGC funding !! 🏆🎯💎<a href="xx"> $877,079</a> <b>| Metal Transport in Ore Fluids via Organic Matter; Analyzing Gold & Copper-Biomolecule Cluster Structures and Stability using FT-MS and IRMPD Spectroscopy. | </b> one reviewer noted<i>"...PI has excellent track record in this field, widely published in high quality journals."</i>   😁😁
+    - year: 2020/2021
       items:
-        - Max Planck Medal
+        - Bingo, funded!! ✨🥇🎯📈 <a href="xx" >$441,074</a> | <b> Metals in Ore Nanodroplets - Ab Initio Molecular Dynamics and IR Spectroscopic Characterization of Hydrated Gold and Copper Clusters | </b> reviewers noted  <i>"... PI has developed an expertise in the methodologies to be used and I am confident in their ability to carry out the work. ]....[the proposed work is well aligned to answer the immediate goals of the research. Theme 2, in particular, has a strong direct connection between theory and experiment."</i> 🤓👍
 
 - title: Academic Interests
-  type: nested_list
+  type: list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    -  <b>Research:</b> FT ICR ion mass spectrometry, IRMPD spectroscopy of metal ion complexes and clusters, metals in ore fluids and vapors, static (G16,C4) and dynamic (CPMD/CP2K ) ab initio calculations of cluster structures and energies.
+    -  <b>Undergraduate Teaching:</b> <b>1</b>. <a href="https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=EASC2401"><b>EASC2401 "Fluid/Solid Interactions in Earth Processes"</b></a> Physical and chemical principles governing Earth processes, focusing on fluid-solid interactions, and covering topics such as thermo-dynamics, states of matter, mineral-solution interfaces, energy exchange, kinetics, and fluid flow. <b>2</b>. <a href="https://commoncore.hku.hk/ccgl9033/"><b>CCGL9033 "Weapons of Mass Destruction - Science, Proliferation and Terrorism"</b></a> This course examines the development, deterrence, and risks of weapons of mass destruction (WMD), addressing their strategic, political, and ethical aspects, non-proliferation efforts, and the potential consequences of terror networks acquiring WMD materials, while exploring the feasibility and desirability of disarmament.
+    -  <b>Gggggggggraduate Teaching:</b> <b>1</b>. <a href="https://www.earthsciences.hku.hk/prospective-students/postgraduate-students/research-postgraduates/coursework-requirement"><b>EASC6010 "Nanogeoscience"</b></a> course covers nanoscience and nanotechnology concepts, the role of nanomaterials in Earth's history and life's origins, nanophase diagrams, size-dependent properties, analytical techniques, applications in Earth sciences, and emerging trends in the field.
+
+
 
 - title: Other Interests
   type: list
