@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Kono Lemke",
-    "label": "Geochemist",
+    "name": "Kono H. Lemke",
+    "label": "Physical Geochemist",
     "image": "",
     "email": "kono@hku.hk",
     "phone": "(852) 2241-5474",
-    "url": "https://konohk.github.io/al-folio/",
-    "summary": "geochemist, with an interest in water at extreme conditions",
+    "url": "https://konohk.github.io/",
+    "summary": "Geochemist, with an interest in water at extreme conditions",
     "location": {
       "address": "Pokfulam Road",
       "postalCode": "",
@@ -25,7 +25,18 @@
   "work": [
     {
       "name": "Department of Earth Sciences, University of Hong Kong, Hong Kong, SAR",
-      "position": "Assist./Assoc. Professor Geochemistry",
+      "position": "Professor in Geochemistry",
+      "url": "https://www.earthsciences.hku.hk/people/academic-staff/prof-lemke-kono",
+      "startDate": "2009-2",
+      "endDate": "Pres.",
+      "summary": "Synopsis: I employ FT-ICR mass spectrometry, IRMPD spectroscopy and DFT theory to study ion clusters. ",
+      "highlights": [
+        "<b>Courses taught</b>: Fluid Solid Interactions (EASC2401), Geochemistry (EASC2406), WMDs: Science Proliferation, Terrorism (CCGL9033), Origins of Life (CCST9018)  "
+      ]
+    },
+    {
+      "name": "Department of Earth Sciences, University of Hong Kong, Hong Kong, SAR",
+      "position": "Assssssssist./Assoc. Professor Geochemistry",
       "url": "https://example.com",
       "startDate": "2009-2",
       "endDate": "curr.",
@@ -34,10 +45,21 @@
         "<b>Courses taught</b>: Fluid Solid Interactions (EASC2401), Geochemistry (EASC2406), WMDs: Science Proliferation, Terrorism (CCGL9033), Origins of Life (CCST9018)  "
       ]
     }
-    
   ],
   "volunteer": [],
-  "education": [
+   "education": [
+    {
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    }
+  ],
     {
       "institution": "Stanford University, Palo Alto",
       "url": "https://www.stanford.edu/",
