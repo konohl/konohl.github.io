@@ -1,12 +1,14 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Kono H Lemke
-    - name: DUD of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name:  Name
+      value: Kono H. Lemke
+    - name: Affiliation
+      value: University of Hong Kong, Department of Earth Sciences
+    - name: Position
+      value: Professor of Geochemistry
+    - name: AoE
+      value: FT mass spectrometry, IRMPD spectroscopy, Computational Chemistry, Clusters, Hydrothermal Processes, Ion Solvation
 
 - title: Education
   type: time_table
@@ -46,7 +48,7 @@
   contents:
     - title: KH Lemke<a href="https://doi.org/10.1039/D1CP02524D">  | Structure and solvation dynamics of the hydroxide ion in ice-like water clusters, a CCSD(T) and car–parrinello molecular dynamics study 📃 |</a> <i>Phys.Chem.Chem.Phys.</i>, 23, 18990.
       year: 2021
-      items: <i>This CPMD study examines hydroxide-water clusters, reporting structures and temperature-dependent behavior, and hopw these impact OH- ion solvation in nanodroplets and aqueous interfaces.<i/>
+      items: <i>This CPMD study examines hydroxide-water clusters, their structures and temperature-dependent behavior, and how these impact hydroxide ion solvation in nanodroplets and aqueous interfaces.<i/>
 
     - title: KH Lemke, TM Seward <a href="https://doi.org/10.1515/rmg.2018.84.02">| Molecular clusters and solvation in volcanic and hydrothermal vapors 📃 |</a> <i>Rev.Min.Geochem.</i>, 84, 57.
       year: 2018
@@ -56,7 +58,7 @@
       year: 2017
       items: <i>This study employs CCSD(T)/CBS theory to explore binding in the H<sub>2</sub>S dimer, showcasing the importance of HS<sup>...</sup>H hydrogen-bonds in fields such as protein chemistry, physical chemistry, and metal transport in the Earth's crust.<i/>
 
-    - title: KH Lemke, TM Seward <a href="https://doi.org/10.1063/1.4985094">| Thermodynamic properties of carbon dioxide clusters by M06-2X and dispersion-corrected B2PLYP-D theory 📃 |</a> <i>J.Chem.Phys</i>, 146, 234301.
+    - title: KH Lemke, TM Seward <a href="https://doi.org/10.1016/j.cplett.2013.04.044">| Thermodynamic properties of carbon dioxide clusters by M06-2X and dispersion-corrected B2PLYP-D theory 📃 |</a> <i>Chem.Phys.Lett.</i>, 573, 19.
       year: 2013
       items: <i>This is a DFT study (with Terry Seward), in which we analyze (CO<sub>2</sub>)<sub>n</sub> clusters, finding that icosahedral (CO<sub>2</sub>)<sub>13</sub>  plays a key role for understanding carbon dioxide ice formation in Mars's atmosphere.<i/>
 
@@ -66,7 +68,7 @@
     - title: <a href="https://replit.com/@konolemke/CBSExtrapolation#main.py">CBS extrapolation calculator</a>
       year: 2021-now
       description: 
-      items: Code hosted at replit.com, performs Gaussian/exponential extrapolation scheme for any property using correlation consistent basis sets up to n=6; it fits and plots the CBS extrapolation alongside experimental values for comparison.
+      items: hosted at replit.com, script performs Gaussian/exponential extrapolation scheme for any property using correlation consistent basis sets up to n=6; fits and plots the CBS extrapolation alongside experimental values for comparison.
 
 
 - title: Research Funding
@@ -83,8 +85,8 @@
   type: list
   contents:
     -  <b>Research:</b> FT ICR ion mass spectrometry, IRMPD spectroscopy of metal ion complexes and clusters, metals in ore fluids and vapors, static (G16,C4) and dynamic (CPMD/CP2K ) ab initio calculations of cluster structures and energies.
-    -  <b>Undergraduate Teaching:</b> <b>1</b>. <a href="https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=EASC2401"><b>EASC2401 "Fluid/Solid Interactions in Earth Processes"</b></a> Physical and chemical principles governing Earth processes, focusing on fluid-solid interactions, and covering topics such as thermo-dynamics, states of matter, mineral-solution interfaces, energy exchange, kinetics, and fluid flow. <b>2</b>. <a href="https://commoncore.hku.hk/ccgl9033/"><b>CCGL9033 "Weapons of Mass Destruction - Science, Proliferation and Terrorism"</b></a> This course examines the development, deterrence, and risks of weapons of mass destruction (WMD), addressing their strategic, political, and ethical aspects, non-proliferation efforts, and the potential consequences of terror networks acquiring WMD materials, while exploring the feasibility and desirability of disarmament.
-    -  <b>Gggggggggraduate Teaching:</b> <b>1</b>. <a href="https://www.earthsciences.hku.hk/prospective-students/postgraduate-students/research-postgraduates/coursework-requirement"><b>EASC6010 "Nanogeoscience"</b></a> course covers nanoscience and nanotechnology concepts, the role of nanomaterials in Earth's history and life's origins, nanophase diagrams, size-dependent properties, analytical techniques, applications in Earth sciences, and emerging trends in the field.
+    -  <b>Undergraduate Teaching:</b> <b>1</b>. <a href="https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=EASC2401"><b>EASC2401 "Fluid/Solid Interactions in Earth Processes"</b></a> Physical and chemical principles governing Earth processes, focusing on fluid-solid interactions, and covering topics such as thermo-dynamics, states of matter, mineral-solution interfaces, energy exchange, kinetics, and fluid flow. <b>2</b>. <a href="https://commoncore.hku.hk/ccgl9033/"><b>CCGL9033 "Weapons of Mass Destruction - Science, Proliferation and Terrorism"</b></a> course examines historical development, deterrence, and risks of WMD systems, addressing  strategic, political, and ethical aspects, non-proliferation efforts, potential consequences of terror networks acquiring WMD materials, while exploring  feasibility and desirability of WMD disarmament.
+    -  <b>Graduate Teaching:</b> <b>1</b>. <a href="https://www.earthsciences.hku.hk/prospective-students/postgraduate-students/research-postgraduates/coursework-requirement"><b>EASC6010 "Nanogeoscience"</b></a> course covers nanoscience and nanotechnology concepts, role of nanomaterials in Earth's history and life's origins, nanophase diagrams, size-dependent properties, analytical techniques, applications in Earth sciences, and emerging trends in the field.
 
 
 

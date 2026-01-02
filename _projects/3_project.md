@@ -1,24 +1,21 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: GRF17308120
+description: <b>2023/2024 | Heavy Metals in Volcanic Vapors</b> | Insights from IRMPD Spectroscopy and Molecular Simulations of Cadmium and Mercury Clusters
+img: assets/img/1E_bw1.jpg
+importance: 1
 category: work
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<b>Project title: "Heavy Metals in Volcanic Vapors: Insights from IRMPD - Spectroscopy and Molecular Simulations of Cadmium and Mercury Clusters."</b> This research aims to characterize the abundance, composition, and hydrogen-bonding environment of cadmium and mercury halide clusters solvated by water and other molecules, using ESI mass spectrometry, IRMPD spectroscopy, and quantum chemical calculations to determine vibrational frequencies and solvation shell structures.
 
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    Project duration: 1/9/2018-31/08/2023
+    Project Fund: $505,298 
+    Project title: Heavy Metals in Volcanic Vapors: Insights from IRMPD Spectroscopy 
+    and Molecular Simulations of Cadmium and Mercury Clusters
+    Project keywords: hydrothermal vapor, hydration, metal (Cd,Hg) clustering 
     ---
 
 <div class="row">

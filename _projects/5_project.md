@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Uv-vis spec lab
+description: <b>2024 | new Au/Ni coated hydrothermal cell for prebiotic biomolecule studies |</b> 1 kbar, 400°C, sapphire viewports, high-temperature fiberoptics .
+img: assets/img/1cat_p5bw.jpg
 importance: 3
-category: fun
+category: new projects
 ---
 
 Every project has a beautiful feature showcase page.
