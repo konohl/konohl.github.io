@@ -2,7 +2,7 @@
 layout: page
 title: Metal transport in ore fluids
 description: <b>GRF 17308423 (2023–2027)</b> | Metal transport in ore fluids by organic matter — FT-MS and IRMPD spectroscopy of Au- and Cu–biomolecule clusters.
-img: assets/img/17308423/17308423_C.jpg
+img: assets/img/1A_bw.jpg
 importance: 1
 category: funded GRF
 related_publications: true

@@ -2,7 +2,7 @@
 layout: page
 title: Heavy metals in volcanic vapors
 description: <b>GRF (2018–2023)</b> | IRMPD spectroscopy and molecular simulations of cadmium and mercury clusters in volcanic and hydrothermal vapors.
-img: assets/img/17308120/17308120_I.jpg
+img: assets/img/1A_bw.jpg
 importance: 3
 category: funded GRF
 related_publications: true
