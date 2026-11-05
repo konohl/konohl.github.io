@@ -71,3 +71,8 @@
     font-size: 0.8125rem !important;
   }
 }
+
+// Keep multi-word nav labels (e.g. Summer school) on one line
+#navbar .navbar-nav .nav-item a.nav-link[href*="summer-school"] {
+  white-space: nowrap;
+}
