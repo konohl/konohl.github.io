@@ -15,11 +15,11 @@ The UV–visible spectroscopy laboratory supports in-situ studies of aqueous org
     Operating window:        ~400–450 °C; ~1 kbar (selected cells higher)
     Key hardware:            Au/Ni-lined cells · sapphire viewports · HT fibre optics
     Applications:            Aqueous speciation · prebiotic biomolecules · hydrothermal geochemistry
-    Related labs:            IR OPO/OPA · fibre-optics cavity ring-down (pages forthcoming)
+    Related labs:            Infrared OPO/OPA lab · Fibre-optics cavity ring-down lab
     ---
 
 <div style="text-align: justify; font-size: 16px; margin-bottom: 2em;">
-  <b>Science focus.</b> Typical experiments follow the stability and reactivity of dissolved species (including biomolecules and metal complexes) as temperature and pressure are ramped, using broadband UV–vis absorption through the sapphire windows. The same optical infrastructure underpins related fibre-based cavity methods developed in the group; a dedicated fibre-optics cavity ring-down page will be added with laboratory photographs.
+  <b>Science focus.</b> Typical experiments follow the stability and reactivity of dissolved species (including biomolecules and metal complexes) as temperature and pressure are ramped, using broadband UV–vis absorption through the sapphire windows. Together with the infrared OPO/OPA and fibre-optics cavity ring-down laboratories, this facility forms the group’s experimental spectroscopy suite. Laboratory photographs will be added when available.
 </div>
 
 <div style="text-align: justify; font-size: 14px; margin-bottom: 2em; color: #555;">
