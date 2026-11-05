@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Infrared OPO/OPA lab
-description: <b>Laboratory</b> | Nd:YAG-pumped OPO/OPA IR laser with 7 T ESI/FT-ICR mass spectrometry for IRMPD of metal complexes and clusters.
+description: <b>Laboratory 2</b> | Nd:YAG-pumped OPO/OPA IR laser with 7 T ESI/FT-ICR mass spectrometry for IRMPD of metal complexes and clusters.
 img: assets/img/1cat_p5bw.jpg
 importance: 2
 category: laboratories

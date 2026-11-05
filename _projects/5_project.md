@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UV–vis spectroscopy lab
-description: <b>Laboratory</b> | High-PT UV–vis cells with sapphire windows and fibre optics for aqueous speciation near 400 °C and 1 kbar.
+description: <b>Laboratory 1</b> | High-PT UV–vis cells with sapphire windows and fibre optics for aqueous speciation near 400 °C and 1 kbar.
 img: assets/img/1cat_p5bw.jpg
 importance: 1
 category: laboratories
