@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Metals in ore nanodroplets
-description: <b>GRF 17308120 (2020–2024)</b> | Ab initio MD and IR spectroscopic characterization of hydrated gold and copper clusters.
+description: <b>GRF 17308120 (2020–2024)</b> | Ab initio MD and IR spectroscopy of hydrated gold and copper clusters in ore-vapor nanodroplets.
 img: assets/img/1A_bw.jpg
 importance: 2
 category: funded GRF

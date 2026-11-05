@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UV–vis spectroscopy lab
-description: <b>Laboratory</b> | High-PT hydrothermal UV–vis spectroscopy — Au/Ni-lined cells, sapphire viewports, and fibre-optic probes for aqueous speciation up to ~400&nbsp;°C and 1&nbsp;kbar.
+description: <b>Laboratory</b> | High-PT UV–vis cells with sapphire windows and fibre optics for aqueous speciation near 400 °C and 1 kbar.
 img: assets/img/1cat_p5bw.jpg
 importance: 1
 category: laboratories

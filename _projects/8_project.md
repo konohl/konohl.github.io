@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Fibre-optics cavity ring-down lab
-description: <b>Laboratory</b> | Fibre-loop cavity ring-down spectroscopy (FLRDS) in the 350–1100&nbsp;nm range for sensitive absorption measurements of aqueous species at elevated PT.
+title: Fibre cavity ring-down lab
+description: <b>Laboratory</b> | Fibre-loop cavity ring-down (FLRDS, 350–1100 nm) for sensitive absorption of aqueous species at elevated PT.
 img: assets/img/1cat_p5bw.jpg
 importance: 3
 category: laboratories
