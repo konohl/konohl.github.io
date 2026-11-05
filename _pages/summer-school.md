@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /outreach/
-title: Outreach
+permalink: /summer-school/
+title: Summer school
 description: Molecules Before Life — physical chemistry of prebiotic worlds (2027)
 nav: true
 nav_order: 7
