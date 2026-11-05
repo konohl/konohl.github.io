@@ -2,7 +2,7 @@
 layout: page
 permalink: /summer-school/
 title: Summer school
-description: Molecules Before Life: Physical Chemistry in Prebiotic Worlds
+description: "Molecules Before Life: Physical Chemistry in Prebiotic Worlds"
 nav: true
 nav_order: 7
 ---
