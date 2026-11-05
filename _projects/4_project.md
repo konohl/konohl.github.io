@@ -3,8 +3,8 @@ layout: page
 title: cbs-xtrapol
 description: <b>2023 | extrapolation of Gaussian/exponential properties | </b> suitable for aVnDZ basis sets (n=2-6); fits/plots CBS data vs experimental values.
 img: assets/img/1cat_p6bw.jpg
-importance: 3
-category: new projects
+importance: 99
+category: archive
 ---
 <div style="text-align: justify; font-size: 15px; margin-bottom: 2em;">
 Peterson et al.'s seminal study introduced the Complete Basis Set (CBS) extrapolation technique, enabling highly accurate predictions of molecular properties through correlation consistent basis sets such as aug-cc-pV(<i>n</i>)Z. Focusing on the <b>H + H<sub>2</sub> = H<sub>2</sub> + H</b>  exchange reaction, their method yielded a CBS barrier height at 9.6 kcal/mol, a value that compares well with the experimental value of 9.62 kcal/mol [Peterson,<i>J.Chem.Phys.</i> 100, 7410, 1994]. Expanding on this scheme, we applied a similar CBS extrapolation method to the hydrogen sulphide dimerization reaction <b>2H<sub>2</sub>S = (H<sub>2</sub>S)<sub>2</sub></b>. This work culminated in a recent JCP publication, in which we reported the CCSD(T)/CBS level binding energy  D<sub>o</sub>=1.08 kcal/mol, which is only 0.6 kcal/mol smaller than the measured value D<sub>o</sub>=1.7±0.3 kcal/mol, and for the first time, its complete anharmonic vibrational spectra [Lemke, <i>J.Chem.Phys.</i> 145, 234301, 2017].

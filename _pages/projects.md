@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: These pages provide an overview of the current projects and activities within our group.
+description: Laboratories and funded research projects in the group.
 nav: true
 nav_order: 3
-display_categories: [work, new projects, new one here]
+display_categories: [laboratories, funded GRF]
 horizontal: false
 ---
 

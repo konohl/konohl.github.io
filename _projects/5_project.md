@@ -1,80 +1,27 @@
 ---
 layout: page
-title: Uv-vis spec lab
-description: <b>2024 | new Au/Ni coated hydrothermal cell for prebiotic biomolecule studies |</b> 1 kbar, 400°C, sapphire viewports, high-temperature fiberoptics .
+title: UV–vis spectroscopy lab
+description: <b>Laboratory</b> | High-PT hydrothermal UV–vis spectroscopy — Au/Ni-lined cells, sapphire viewports, and fibre-optic probes for aqueous speciation up to ~400&nbsp;°C and 1&nbsp;kbar.
 img: assets/img/1cat_p5bw.jpg
-importance: 3
-category: new projects
+importance: 1
+category: laboratories
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<div style="text-align: justify; font-size: 16px; margin-bottom: 2em;">
+The UV–visible spectroscopy laboratory supports in-situ studies of aqueous organic and inorganic speciation under hydrothermal and prebiotic conditions. Central to the facility are custom high-pressure / high-temperature spectroscopic cells with Au- or Ni-lined bodies, single-crystal sapphire viewports, and high-temperature fibre-optic coupling for transmission measurements. The cells are designed for operation up to about 400–450&nbsp;°C and pressures on the order of 1&nbsp;kbar (~100&nbsp;MPa; selected cells toward 200&nbsp;MPa), enabling continuous optical monitoring of reacting fluids without quenching.
+</div>
 
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    Facility:                High-PT UV–vis / fibre-optic spectroscopy
+    Operating window:        ~400–450 °C; ~1 kbar (selected cells higher)
+    Key hardware:            Au/Ni-lined cells · sapphire viewports · HT fibre optics
+    Applications:            Aqueous speciation · prebiotic biomolecules · hydrothermal geochemistry
+    Related labs:            IR OPO/OPA · fibre-optics cavity ring-down (pages forthcoming)
     ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+<div style="text-align: justify; font-size: 16px; margin-bottom: 2em;">
+  <b>Science focus.</b> Typical experiments follow the stability and reactivity of dissolved species (including biomolecules and metal complexes) as temperature and pressure are ramped, using broadband UV–vis absorption through the sapphire windows. The same optical infrastructure underpins related fibre-based cavity methods developed in the group; a dedicated fibre-optics cavity ring-down page will be added with laboratory photographs.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div style="text-align: justify; font-size: 14px; margin-bottom: 2em; color: #555;">
+  <b>Figures.</b> Laboratory photographs will be added here once available. The card image is a temporary placeholder until those photos are supplied.
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

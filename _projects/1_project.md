@@ -1,73 +1,61 @@
 ---
 layout: page
-title: GRF17308423
-description: <b>2023/2024 |  Metal transport in Ore Fluids by Organic Matter</b> | FT-MS and IRMPD Spectroscopy of the Structure of Gold- and Copper-Biomolecule Clusters.
-img: assets/img/1A_bw.jpg
+title: Metal transport in ore fluids
+description: <b>GRF 17308423 (2023–2027)</b> | Metal transport in ore fluids by organic matter — FT-MS and IRMPD spectroscopy of Au- and Cu–biomolecule clusters.
+img: assets/img/17308423/17308423_C.jpg
 importance: 1
-category: work
+category: funded GRF
 related_publications: true
 ---
 <div style="text-align: justify; font-size: 16px; margin-bottom: 2em;">
-This newly funded research project aims to investigates Au(III) and Cu(I) chloride complexes with organic and organosulfur ligands using FT-MS IRMPD techniques to better  understand their role in gold and copper transport in aqueous fluids and ore deposit formation. The second theme of this project examines the same metal (Au and Cu) but complexed with amino acids and dipeptides to explore metal-biomolecule interactions, oligomerization, and their role in prebiotic evolution and peptide complexation. Both themes employ statse-of-the-art FT ion electrospray mass spectrometry and IRMPD spectroscopy, filling in some knowledge gaps in metal-ligand interactions and their impact on geochemical processes and prebiotic chemistry.
+This GRF project examines Au(III) and Cu(I) chloride complexes with organic and organosulfur ligands using high-resolution FT-ICR mass spectrometry and IRMPD spectroscopy, with the aim of clarifying how such ligands influence gold and copper transport in aqueous ore fluids. A second theme focuses on the same metals bound to amino acids and dipeptides, addressing metal–biomolecule interactions, oligomerization, and possible roles in prebiotic chemistry. Experiment is paired with DFT and higher-level ab initio calculations of structures, spectra, and complexation free energies.
 </div>
 
     ---
-    Project duration:        15/9/2023-14/09/2027
-    Project Status:          On-going
-    Funding Scheme:          HK GRF (General Research Fund)
-    Research Field:          Earth Sciences, Chemical Sciences
-    Keywords:                metal transport, IRMPD spectroscopy, organosulfur, ore fluids  
-    Total Fund Awarded:      $877,079 
-    HKU Project Code:        17308423
+    Project duration:        15/09/2023 – 14/09/2027
+    Project status:          Ongoing
+    Funding scheme:          RGC General Research Fund (GRF)
+    Research field:          Earth Sciences, Chemical Sciences
+    Keywords:                metal transport, IRMPD, organosulfur, ore fluids, prebiotic ligands
+    Total fund awarded:      HK$877,079
+    HKU project code:        17308423
     ---
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-12 mt-3 mt-md-0; margin-bottom: 3em;">
-        {% include figure.liquid path="assets/img/17308120/17308120_I.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div style="text-align: justify; font-size: 14px; margin-bottom: 3em;">
- <b>Fig.1</b> OPO/OPA IR laser and 7T ESI/FT-ICR mass spectrometer setup, featuring pulsed Nd:YAG laser, wave-tunable IR-OPO/OPA with a range of 800-4500 cm<sup>-1</sup>, FT-ICR MS ion transfer stage, an AgGaSe<sub>2</sub> wavelength extension to 625 cm<sup>-1</sup>, and 7T Bruker magnet</div>
-
-<div class="row">
-
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets//img/17308423/17308423_C.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div style="text-align: justify; font-size: 14px; margin-bottom: 3em;">
-    <b>Fig.2</b> Thermodynamic cycle of [AuCl<sub>2</sub>]<sup>+</sup> complexation with acetate and thioacetate (A) derived from density functional theory calculations at the B3LYP/aVDZ level of theory, with complexation free energies given in kcal/mol
-and the reaction step in parentheses; panel (B) on right shows the complexation free energies of [AuCl<sub>2</sub>]<sup>+</sup> with two structural forms of mercaptopropionate via the thiolate (thiol.CN) and carboxylate (carb.CN) terminal positions; this work is core of <b> 17308423 | theme1: FT-MS/IRMPD studies of Au,Cu-complexes with (thio)organic ligands</b>
-</div>
-
-
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets//img/17308423/17308423_E.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+  <div class="col-sm-12 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/17308120/17308120_I.jpg" title="OPO/OPA IR laser and 7T FT-ICR mass spectrometer" class="img-fluid rounded z-depth-1" %}
+  </div>
 </div>
 <div style="text-align: justify; font-size: 14px; margin-bottom: 2em;">
-    <b>Fig.3</b> Predicted binding motifs between [AuCl<sub>2</sub>]<sup>+</sup> and the zwitterion forms (zw1 and zw2) of alanylcysteine (Ala-Cys) and its thiolate ion forms (thio1 and thio2). Also shown are the relative free energies in kcal/mol computed at the B3LYP/aVDZ level of theory using scaled (0.980) harmonic frequencies (panel A); Right: example of a torsional isomerization plot for the solvated gold(III)-chloride complex [AuCl<sub>2</sub>]<sup>+</sup>(H<sub>2</sub>O)<sub>2</sub> highlighting the effect of twisting one water molecule in the solvation shell of [AuCl<sub>2</sub>]<sup>+</sup> on the relative energies of this complex (panel A); this work is core of <b> GRF17308423 | theme2: FT-MS/IRMPD studies of hydrated Au, Cu-complexes with prebiotic (thio)biomolecules.</b>
+  <b>Fig. 1</b> Nd:YAG-pumped OPO/OPA infrared laser line coupled to the 7&nbsp;T ESI/FT-ICR mass spectrometer used for IRMPD measurements (tunable mid-IR radiation; AgGaSe<sub>2</sub> extension toward longer wavelengths).
+</div>
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/17308423/17308423_C.jpg" title="AuCl2 complexation free-energy cycles" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div style="text-align: justify; font-size: 14px; margin-bottom: 2em;">
+  <b>Fig. 2</b> Thermodynamic cycles for [AuCl<sub>2</sub>]<sup>+</sup> complexation with acetate and thioacetate (and related mercaptopropionate binding modes) from B3LYP/aVDZ calculations — Theme 1 of GRF 17308423.
+</div>
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/17308423/17308423_E.jpg" title="Au–dipeptide binding motifs" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div style="text-align: justify; font-size: 14px; margin-bottom: 2em;">
+  <b>Fig. 3</b> Predicted binding motifs between [AuCl<sub>2</sub>]<sup>+</sup> and alanylcysteine (zwitterion and thiolate forms), with relative free energies at B3LYP/aVDZ — Theme 2 (hydrated Au/Cu complexes with prebiotic thio-biomolecules).
 </div>
 
 <div style="text-align: justify; font-size: 16px; margin-bottom: 2em;">
-<b>Method synopsis:</b> This work will involve experimental IRMPD studies of metal-complexes with various (thio)organic and biomolecular ligands using high-resolution FT ion resonance mass spectrometry and structure-sensitive infrared multiphoton dissociation (IRMPD) spectroscopy; these experiments will be conducted using a custom-built Nd:YAG-pumped IR OPO/OPA laser beam :sparkler: line at HKU with ion mass-isolation capability and tunable infrared radiation from 4500 cm<sup>-1</sup> to 2200 cm<sup>-1</sup>. Typical FT-MS IRMPD experiments will involve electrospraying dilute (mM) aqueous solutions of metal-ligands salts , followed by mass-isolation, IR laser irradiation, and IR spectral analysis. These type of experiments will be complimented by ab initio calculations :desktop_computer:, using either molecular dynamics or particle swarm optimization tools, DFT reoptimizations, and frequency calculations. Lower energy structures will then be reoptimized at higher levels of theory, for example at the MP2 and CCSD(T) level of theory, with larger basis sets and dispersion corrections. Lastly, we are quite fortunate to perform all these type of advanced theoretical calculations (G16, C4 and CP2K) on HKU's HPC2021 network. Thanks HKU! :clap::clap: .
-
+  <b>Methods.</b> Dilute aqueous metal–ligand solutions are electrosprayed into the FT-ICR; ions are mass-selected and irradiated with tunable IR light to record IRMPD spectra. Complementary structure searches (including molecular dynamics / PSO where useful) are followed by DFT reoptimization and frequency analysis, with selected low-energy isomers refined at MP2 or CCSD(T) with larger basis sets. Production calculations run on HKU HPC facilities (Gaussian, CFOUR, CP2K).
 </div>
 
-
-
-<b>Relevant references</b>
-
-<b>T.H. Giordano</b> "Metal transport in ore fluids by organic ligand complexation. In Organic acids in geological
-processes (pp. 319-354). Springer, Berlin, Heidelberg (1994).
-
-<b>K.H. Lemke</b> “Gold chloride clusters with Au(III) and Au(I) probed by FT-ICR mass spectrometry and MP2
-theory” <i>Phys.Chem.Chem.Phys.</i>.<b>7</b>, 7813 (2014).
-
-<b>K.H. Lemke and T.M. Seward </b>“Molecular clusters and solvation in volcanic and hydrothermal vapors”, <i>Rev.Min.Geochem.</i> <b>84</b>, 57-84 (2018).
-
-<b>Frenkel-Pinter, M.</b>, Sargon, A. B., Glass, J. B., Hud, N. V., & Williams, L. D. Transition metals enhance
-prebiotic depsipeptide oligomerization reactions involving histidine. <i>RSC adv.</i>, <b>11</b>, 3534-3538 (2021).
+<p><b>Selected references</b></p>
+<ul>
+  <li>T. H. Giordano, in <i>Organic Acids in Geological Processes</i> (Springer, 1994), pp. 319–354.</li>
+  <li>K. H. Lemke, <i>Phys. Chem. Chem. Phys.</i> <b>16</b>, 7813 (2014).</li>
+  <li>K. H. Lemke &amp; T. M. Seward, <i>Rev. Mineral. Geochem.</i> <b>84</b>, 57–84 (2018).</li>
+  <li>M. Frenkel-Pinter et al., <i>RSC Adv.</i> <b>11</b>, 3534–3538 (2021).</li>
+</ul>

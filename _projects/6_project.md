@@ -3,8 +3,8 @@ layout: page
 title: Fissile spheres
 description: <b>2023 | Criticality of <sup>235</sup>U, <sup>239</sup>Pu, <sup>236</sup>Np, <sup>245</sup>Cm, <sup>242</sup>Am micro- and nano-spheres</b> under extreme compression using Thomas-Fermi EoS approach.
 img: assets/img/projects/proj6_bw2.jpg
-importance: 4
-category: new projects
+importance: 99
+category: archive
 ---
 
 Every project has a beautiful feature showcase page.
