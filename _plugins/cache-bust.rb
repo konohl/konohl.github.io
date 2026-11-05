@@ -43,7 +43,8 @@ module Jekyll
         end
 
         def bust_css_cache(file_name)
-            CacheDigester.new(file_name: file_name, directory: 'assets/_sass').digest!
+            # Sass sources live at site-root _sass/ (not assets/_sass)
+            CacheDigester.new(file_name: file_name, directory: '_sass').digest!
         end
     end
 end
