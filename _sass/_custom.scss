@@ -73,6 +73,16 @@
 }
 
 // Keep multi-word nav labels (e.g. Summer school) on one line
+#navbar .navbar-nav {
+  flex-wrap: nowrap;
+}
+
 #navbar .navbar-nav .nav-item a.nav-link[href*="summer-school"] {
-  white-space: nowrap;
+  white-space: nowrap !important;
+}
+
+@media (max-width: 991.98px) {
+  #navbar .navbar-nav {
+    flex-wrap: wrap;
+  }
 }
