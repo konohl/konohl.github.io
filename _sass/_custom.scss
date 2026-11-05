@@ -1,53 +1,73 @@
-// Site-local overrides (imported last from assets/css/main.scss)
-
-// Equal-height project cards on /projects/
+// Site-local Projects card lock (imported last)
 .projects {
-  .card {
-    height: 370px;
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
+  .grid-item .card.hoverable {
+    height: 360px !important;
+    min-height: 360px !important;
+    max-height: 360px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    overflow: hidden !important;
+  }
 
-    figure {
-      margin: 0;
-      height: 155px;
-      overflow: hidden;
-      flex: 0 0 155px;
+  .grid-item .card.hoverable figure {
+    margin: 0 !important;
+    height: 150px !important;
+    max-height: 150px !important;
+    flex: 0 0 150px !important;
+    overflow: hidden !important;
+  }
 
-      picture,
-      img {
-        display: block;
-        width: 100%;
-        height: 155px;
-        object-fit: cover;
-      }
-    }
+  .grid-item .card.hoverable figure picture,
+  .grid-item .card.hoverable figure img,
+  .grid-item .card.hoverable img {
+    display: block !important;
+    width: 100% !important;
+    height: 150px !important;
+    max-height: 150px !important;
+    object-fit: cover !important;
+  }
 
-    .card-body {
-      flex: 1 1 auto;
-      display: flex;
-      flex-direction: column;
-      overflow: hidden;
-      padding-top: 0.75rem;
-      padding-bottom: 0.75rem;
-    }
+  .grid-item .card.hoverable .card-body {
+    flex: 1 1 auto !important;
+    display: flex !important;
+    flex-direction: column !important;
+    overflow: hidden !important;
+    padding-top: 0.65rem !important;
+    padding-bottom: 0.65rem !important;
+  }
 
-    .card-title {
-      font-size: 1.1rem;
-      line-height: 1.25;
-      // Reserve space for up to 3 wrapped title lines so description tops align
-      min-height: calc(1.25em * 3);
-      margin-bottom: 0.4rem;
-    }
+  // Title only ~2–3px larger than blurb
+  .grid-item .card.hoverable .card-title {
+    font-size: 1rem !important; // 16px
+    line-height: 1.25 !important;
+    font-weight: 600 !important;
+    min-height: calc(1.25em * 3) !important;
+    margin-bottom: 0.35rem !important;
+  }
 
-    .card-text {
-      font-size: 0.875rem;
-      line-height: 1.35;
-      margin-bottom: 0;
-      overflow: hidden;
-      display: -webkit-box;
-      -webkit-box-orient: vertical;
-      -webkit-line-clamp: 4;
-    }
+  .grid-item .card.hoverable .card-text {
+    font-size: 0.8125rem !important; // 13px
+    line-height: 1.35 !important;
+    margin-bottom: 0 !important;
+    overflow: hidden !important;
+    display: -webkit-box !important;
+    -webkit-box-orient: vertical !important;
+    -webkit-line-clamp: 4 !important;
+  }
+
+  // Unambiguous lock when project-card-fixed is present
+  .grid-item .card.hoverable.project-card-fixed {
+    height: 360px !important;
+    min-height: 360px !important;
+    max-height: 360px !important;
+  }
+
+  .grid-item .card.hoverable.project-card-fixed .card-title {
+    font-size: 1rem !important;
+    font-weight: 600 !important;
+  }
+
+  .grid-item .card.hoverable.project-card-fixed .card-text {
+    font-size: 0.8125rem !important;
   }
 }
