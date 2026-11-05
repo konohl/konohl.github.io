@@ -6,30 +6,18 @@ inline: false
 related_posts: false
 ---
 
-<b>:loudspeaker: When hot water turns a sharp acid into a softie — H₂SO₃ up to 350 °C, Dec. 18, 2025 </b> :alembic: :volcano: :thermometer: :droplet: :hotsprings: :nerd_face:
+<b>:loudspeaker: Sulfurous acid ionization in hydrothermal fluids and nanodroplets, Dec. 18, 2025 </b> :thermometer: :droplet: :alembic:
 
 <div style="text-align: justify;">
 <p>
-Sulfurous acid (H₂SO₃) is one of those small sulfur molecules that punch above their weight in volcanoes, fumaroles, and hydrothermal vents. At room temperature it is a fairly strong acid; crank up the heat toward boiling and beyond, and the story changes. In our new ACS Earth &amp; Space Chemistry paper we used ab initio molecular dynamics and thermodynamic integration to follow how H₂SO₃ ionizes from 25 to 350 °C — not only in bulk liquid water, but also in dilute vapor and in tiny water nanodroplets.
+In our ACS Earth &amp; Space Chemistry study we used ab initio molecular dynamics and thermodynamic integration to quantify how sulfurous acid (H₂SO₃) ionizes from 25 to 350 °C in bulk liquid, dilute vapor, and aqueous nanodroplets. Calculated constants match experiment near 25 °C (pK₁ ≈ 2.08 vs 1.88; pK₂ ≈ 8.14 vs 7.12) and rise to pK₁ ≈ 6.93 and pK₂ ≈ 15.66 at 350 °C, showing a clear loss of acidity with temperature that is driven mainly by entropy. The temperature dependence (T in kelvin) is given by:
+</p>
+<p style="text-align:center; color:#000; background:none;">
+log K₁ = −32.5686 − 0.0297·T + 6.8894·ln(T)<br>
+log K₂ = −86.3360 − 0.0608·T + 16.8911·ln(T)
 </p>
 <p>
-<b>🌡️ Temperature turns the dial down on acidity.</b> Both ionization steps get harder as temperature rises. Our calculated constants agree well with experiment near 25 °C (pK₁ ≈ 2.08 vs exp. 1.88; pK₂ ≈ 8.14 vs exp. 7.12), then climb to pK₁ ≈ 6.93 and pK₂ ≈ 15.66 at 350 °C. In plain terms: hot hydrothermal fluids keep much more sulfur as the neutral H₂SO₃ / HSO₃⁻ forms rather than fully deprotonated SO₃²⁻. Entropy, more than enthalpy, drives that shift.
-</p>
-<p>
-The temperature dependence of the first and second ionization constants (T in kelvin) is captured by these van’t Hoff-style fits:
-</p>
-<p style="text-align:center;">
-<code>log K₁ = −32.5686 − 0.0297·T + 6.8894·ln(T)</code><br>
-<code>log K₂ = −86.3360 − 0.0608·T + 16.8911·ln(T)</code>
-</p>
-<p>
-<b>💨 Vapor vs liquid:</b> at 350 °C, ionizing H₂SO₃ in low-density vapor costs roughly <b>~30% more free energy (ΔG)</b> than in dense liquid — deprotonation really does not like sparse water.
-</p>
-<p>
-<b>💧 Nanodroplet interior vs surface:</b> inside an H₂SO₃(H₂O)₁₀₀ droplet the acid still behaves somewhat like bulk liquid and can form HSO₃⁻, but at the surface the molecule prefers to stay protonated. The surface–interior free-energy gap is about <b>2.6–4.6 kcal/mol</b> (larger at 25 °C than at 100 °C). That location dependence helps drive charge separation: more HSO₃⁻ / protons inside, more neutral H₂SO₃ at the rim — with knock-on effects for droplet charging, mobility, and sulfur transport in volcanic vapors.
-</p>
-<p>
-The graphic below summarizes the molecular picture: how sulfurous acid’s ionization responds to temperature and to whether it sits in liquid, vapor, or at a nanodroplet surface versus interior. 📝 <b>Hui &amp; Lemke, ACS Earth Space Chem. (2026)</b> — <a href="https://doi.org/10.1021/acsearthspacechem.5c00243">https://doi.org/10.1021/acsearthspacechem.5c00243</a>
+At 350 °C, ionization in low-density vapor costs roughly 30% more free energy than in dense liquid. In H₂SO₃(H₂O)₁₀₀ nanodroplets, surface sites further suppress deprotonation relative to the interior (ΔG larger by 2.6–4.6 kcal/mol), so droplet rims favor molecular H₂SO₃ while interiors more readily form HSO₃⁻—with implications for charge separation and sulfur transport in volcanic and hydrothermal vapors. 📝 <b>Hui &amp; Lemke, ACS Earth Space Chem. (2026)</b> — <a href="https://doi.org/10.1021/acsearthspacechem.5c00243">https://doi.org/10.1021/acsearthspacechem.5c00243</a>
 </p>
 </div>
 
