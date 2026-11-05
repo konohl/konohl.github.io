@@ -6,25 +6,37 @@ inline: false
 related_posts: false
 ---
 
-<b>:loudspeaker: Sulfur Acidity in Extreme Hydrothermal Environments, Dec.18 2025 </b> :alembic: :volcano: :thermometer: :droplet:
+<b>:loudspeaker: When hot water turns a sharp acid into a softie — H₂SO₃ up to 350 °C, Dec. 18, 2025 </b> :alembic: :volcano: :thermometer: :droplet: :hotsprings: :nerd_face:
 
 <div style="text-align: justify;">
 <p>
-Using ab initio MD, we have quantified how sulfurous acid ionizes from 25 to 350 °C in water, vapor, and aqueous nanodroplets. These MD results point to a strong reduction in acidity of H₂SO₃ at elevated PT, with H₂SO₃ remaining largely protonated in hydrothermal vapor and at nanodroplet surfaces, while ionization is favored only in more dense liquid-like and droplet interiors. These findings reveal environment-specific sulfur speciation and showcase the role of nanoscale water structures in controlling acidity, charge separation, and sulfur transport in volcanic and hydrothermal settings.
+Sulfurous acid (H₂SO₃) is one of those small sulfur molecules that punch above their weight in volcanoes, fumaroles, and hydrothermal vents. At room temperature it is a fairly strong acid; crank up the heat toward boiling and beyond, and the story changes. In our new ACS Earth &amp; Space Chemistry paper we used ab initio molecular dynamics and thermodynamic integration to follow how H₂SO₃ ionizes from 25 to 350 °C — not only in bulk liquid water, but also in dilute vapor and in tiny water nanodroplets.
 </p>
 <p>
-These results have important implications for sulfur speciation in natural systems: H₂SO₃ preferentially ionizes in nanodroplet interiors but remains molecular at droplet surfaces, driving proton migration and positive surface charging. This charge separation is expected to influence droplet repulsion, mobility, and electrical conductivity in sulfur-rich volcanic vapors.
+<b>🌡️ Temperature turns the dial down on acidity.</b> Both ionization steps get harder as temperature rises. Our calculated constants agree well with experiment near 25 °C (pK₁ ≈ 2.08 vs exp. 1.88; pK₂ ≈ 8.14 vs exp. 7.12), then climb to pK₁ ≈ 6.93 and pK₂ ≈ 15.66 at 350 °C. In plain terms: hot hydrothermal fluids keep much more sulfur as the neutral H₂SO₃ / HSO₃⁻ forms rather than fully deprotonated SO₃²⁻. Entropy, more than enthalpy, drives that shift.
 </p>
 <p>
-The figure below shows the temperature dependence of pK₁ (blue) and pK₂ (red) for sulfurous acid from 25–350°C, based on CP2K ab initio MD simulations in this study (solid circles and dashed lines) together with experimental data. While pK₁ decreases mocderately with increasing T, pK₂ increases more sharply, indicating strong suppression of the second deprotonation under hydrothermal conditions. 
-<b> ☞ 📝 Hui & Lemke, ACS Earth.Space.Sci. (2026) https://doi.org/10/qk6x</b>
-
-
+The temperature dependence of the first and second ionization constants (T in kelvin) is captured by these van’t Hoff-style fits:
+</p>
+<p style="text-align:center;">
+<code>log K₁ = −32.5686 − 0.0297·T + 6.8894·ln(T)</code><br>
+<code>log K₂ = −86.3360 − 0.0608·T + 16.8911·ln(T)</code>
+</p>
+<p>
+<b>💨 Vapor vs liquid:</b> at 350 °C, ionizing H₂SO₃ in low-density vapor costs roughly <b>~30% more free energy (ΔG)</b> than in dense liquid — deprotonation really does not like sparse water.
+</p>
+<p>
+<b>💧 Nanodroplet interior vs surface:</b> inside an H₂SO₃(H₂O)₁₀₀ droplet the acid still behaves somewhat like bulk liquid and can form HSO₃⁻, but at the surface the molecule prefers to stay protonated. The surface–interior free-energy gap is about <b>2.6–4.6 kcal/mol</b> (larger at 25 °C than at 100 °C). That location dependence helps drive charge separation: more HSO₃⁻ / protons inside, more neutral H₂SO₃ at the rim — with knock-on effects for droplet charging, mobility, and sulfur transport in volcanic vapors.
+</p>
+<p>
+The graphic below summarizes the molecular picture: how sulfurous acid’s ionization responds to temperature and to whether it sits in liquid, vapor, or at a nanodroplet surface versus interior. 📝 <b>Hui &amp; Lemke, ACS Earth Space Chem. (2026)</b> — <a href="https://doi.org/10.1021/acsearthspacechem.5c00243">https://doi.org/10.1021/acsearthspacechem.5c00243</a>
+</p>
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
     <div style="width:90%; margin:0 auto;">
-        {% include figure.liquid loading="eager" path="assets//img/pKs.jpg" title="example image" class="img-fluid rounded" %}
+        {% include figure.liquid loading="eager" path="assets//img/H2SO3.jpg" title="H2SO3 ionization in hydrothermal fluids and nanodroplets" class="img-fluid rounded" %}
     </div>
 </div>
 
