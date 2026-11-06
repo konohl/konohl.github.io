@@ -13,7 +13,9 @@
               </h3>
 
               <div class="course-meta">
-                {% if course.term %}
+                {% if course.number %}
+                  <span class="course-term">{{ course.number }}</span>
+                {% elsif course.term %}
                   <span class="course-term">{{ course.term }}</span>
                 {% endif %}
 
