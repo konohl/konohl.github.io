@@ -9,7 +9,7 @@ instructor: Kono H. Lemke
 course_id: easc6010
 schedule:
   - week: 1
-    date: 18 Jan
+    date: 20 Jan
     topic: Introduction to nanoscience and length scales
     description: Length scales of nanomaterials and the onset of size-dependent properties.
     materials:
@@ -18,7 +18,7 @@ schedule:
       - name: Course syllabus
         url: https://www.earthsciences.hku.hk/education/postgraduate_students/research_postgraduates/coursework_requirement/
   - week: 2
-    date: 25 Jan
+    date: 27 Jan
     topic: Quantum confinement and size-dependent electronic structure
     description: Quantum confinement and size-tunable electronic and optical properties of nanocrystals.
     materials:
@@ -27,14 +27,14 @@ schedule:
       - name: Assignment 1
         url: "#"
   - week: 3
-    date: 1 Feb
+    date: 3 Feb
     topic: Size-dependent melting, solubility and reactivity
     description: Size-dependent melting, solubility, and chemical reactivity of nanoparticles.
     materials:
       - name: Lecture notes
         url: "#"
   - week: 4
-    date: 15 Feb
+    date: 17 Feb
     topic: "Occurrence of natural nanomaterials I: definitions, soils and groundwater"
     description: Definitions of natural nanoparticles and their occurrence in soils and groundwater.
     materials:
@@ -43,7 +43,7 @@ schedule:
       - name: Assignment 2
         url: "#"
   - week: 5
-    date: 22 Feb
+    date: 24 Feb
     topic: "Occurrence II: rivers, lakes, estuaries, oceans and hydrothermal systems"
     description: Transport and transformation of nanoparticles in aqueous and hydrothermal systems.
     materials:
@@ -52,7 +52,7 @@ schedule:
       - name: Case study
         url: "#"
   - week: 6
-    date: 1 Mar
+    date: 3 Mar
     topic: "Occurrence III: atmosphere, dust, ice and volcanoes"
     description: Atmospheric, glacial, and volcanic sources of natural nanoparticles.
     materials:
@@ -61,14 +61,14 @@ schedule:
       - name: Assignment 3
         url: "#"
   - week: 7
-    date: 15 Mar
+    date: 17 Mar
     topic: "Occurrence IV: sediments, biology, planetary analogs and methods"
     description: Biogenic and sedimentary nanoparticles, planetary analogs, and methods of characterisation.
     materials:
       - name: Lecture notes
         url: "#"
   - week: 8
-    date: 22 Mar
+    date: 24 Mar
     topic: "Nanoscale thermodynamics I: serpentinization and awaruite"
     description: Formation of Fe–Ni nanoparticles during serpentinization.
     materials:
@@ -77,7 +77,7 @@ schedule:
       - name: Assignment 4
         url: "#"
   - week: 9
-    date: 29 Mar
+    date: 31 Mar
     topic: "Nanoscale thermodynamics II: cluster phase diagrams"
     description: First-principles phase diagrams of ligand-bearing Fe–Ni nanoclusters.
     materials:
@@ -86,7 +86,7 @@ schedule:
       - name: DFT lab
         url: "#"
   - week: 10
-    date: 5 Apr
+    date: 7 Apr
     topic: Nano-melting and crystallization in binary systems
     description: Size- and shape-dependent melting and phase equilibria in binary nanoalloys.
     materials:
@@ -95,7 +95,7 @@ schedule:
       - name: Assignment 5
         url: "#"
   - week: 11
-    date: 12 Apr
+    date: 14 Apr
     topic: Segregation, phase indistinguishability and reactivity
     description: Surface segregation, phase indistinguishability, and nanoscale reactivity.
     materials:
@@ -104,7 +104,7 @@ schedule:
       - name: DFT lab
         url: "#"
   - week: 12
-    date: 19 Apr
+    date: 21 Apr
     topic: Pressure-induced nano-crystallization
     description: Combined effects of size, shape, and pressure on nano-crystallization.
     materials:
