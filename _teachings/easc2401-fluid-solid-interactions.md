@@ -7,6 +7,128 @@ term: Second semester
 year: Undergraduate
 instructor: Kono H. Lemke
 course_id: easc2401
+schedule:
+  - week: 1
+    date: 19/22 Jan
+    topic: "Equilibrium I: Gibbs energy and standard states"
+    description: Gibbs energy and standard states of aqueous species and solids.
+    materials:
+      - name: Lecture notes
+        url: "#"
+      - name: Laboratory notes
+        url: "#"
+      - name: Course syllabus
+        url: https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=EASC2401
+  - week: 2
+    date: 26/29 Jan
+    topic: "Equilibrium II: water, activity and mineral solubility"
+    description: Ion hydration and mineral–water solubility.
+    materials:
+      - name: Lecture notes
+        url: "#"
+      - name: Laboratory notes
+        url: "#"
+  - week: 3
+    date: 2/5 Feb
+    topic: "Hydrothermal solubility: gold, sphalerite and complexation"
+    description: Hydrothermal fluid complexation of minerals and alloys.
+    materials:
+      - name: Lecture notes
+        url: "#"
+      - name: Laboratory notes
+        url: "#"
+      - name: Project 1
+        url: "#"
+  - week: 4
+    date: 16/19 Feb
+    topic: "Hydrothermal solubility: pC–T diagrams"
+    description: pC–T diagrams of mineral–fluid and alloy–fluid equilibria.
+    materials:
+      - name: Lecture notes
+        url: "#"
+      - name: Laboratory notes
+        url: "#"
+  - week: 5
+    date: 23/26 Feb
+    topic: "Mineral–water interfaces: sorption and surface charge"
+    description: Sorption and mineral–water surface charge.
+    materials:
+      - name: Lecture notes
+        url: "#"
+      - name: Laboratory notes
+        url: "#"
+  - week: 6
+    date: 2/5 Mar
+    topic: "Stable isotope fractionation: zero-point energy and exchange"
+    description: Zero-point energy and isotope exchange between fluid and solid.
+    materials:
+      - name: Lecture notes
+        url: "#"
+      - name: Laboratory notes
+        url: "#"
+      - name: Project 2
+        url: "#"
+  - week: 7
+    date: 16/19 Mar
+    topic: Midterm examination
+    description: In-class midterm on mineral–fluid equilibria.
+    materials:
+      - name: Midterm
+        url: "#"
+  - week: 8
+    date: 23/26 Mar
+    topic: "Oxygen isotopes: ice–water interface exchange"
+    description: Ice–water interface isotope exchange.
+    materials:
+      - name: Lecture notes
+        url: "#"
+      - name: Laboratory notes
+        url: "#"
+  - week: 9
+    date: 30 Mar/2 Apr
+    topic: Mineral carbonation
+    description: Silicate–fluid carbonation reactions in the subsurface.
+    materials:
+      - name: Lecture notes
+        url: "#"
+      - name: Laboratory notes
+        url: "#"
+      - name: Project 3
+        url: "#"
+  - week: 10
+    date: 6/9 Apr
+    topic: "Phase diagrams I: the phase rule and plagioclase"
+    description: One-component fluid and solid phases, and plagioclase melt–crystal paths.
+    materials:
+      - name: Lecture notes
+        url: "#"
+      - name: Laboratory notes
+        url: "#"
+  - week: 11
+    date: 13/16 Apr
+    topic: "Phase diagrams II: eutectic and peritectic crystallisation"
+    description: Nano-melting and nano-crystallisation.
+    materials:
+      - name: Lecture notes
+        url: "#"
+      - name: Laboratory notes
+        url: "#"
+  - week: 12
+    date: 20/23 Apr
+    topic: "Phase diagrams III: ternary systems"
+    description: Ternary melt–crystal diagrams, volatiles, and nano-crystallisation.
+    materials:
+      - name: Lecture notes
+        url: "#"
+      - name: Laboratory notes
+        url: "#"
+  - week: ""
+    date: 30 Apr
+    topic: Final examination
+    description: In-class final examination.
+    materials:
+      - name: Final examination
+        url: "#"
 ---
 
 ## Course Overview
@@ -35,25 +157,6 @@ Students will:
 - In-class examination: 40%
 - Project reports (3 projects): 45%
 - Test: 15%
-
-## Schedule
-
-Second semester 2026–27. Twelve lecture weeks from 18 January to 19 April 2027. No class 6–12 February (Lunar New Year) or 8–13 March (Reading/Field Trip Week). 16 February is a university holiday; 29 March is a university holiday; 5 April is a general holiday. Last day of teaching is 30 April; 26–30 April is available for review. Revision 3–7 May; assessment 8–25 May.
-
-| Week | Date | Topic | Materials |
-| --- | --- | --- | --- |
-| 1 | 18 Jan | Earth in the laboratory, scaling time and space<br>How laboratory experiments scale time and space to Earth processes. | — |
-| 2 | 25 Jan | Introduction to thermodynamics, and the concept of equilibrium (1)<br>Basic equilibrium thermodynamics for Earth systems. | — |
-| 3 | 1 Feb | Introduction to thermodynamics, and the concept of equilibrium (2)<br>Continuing equilibrium concepts. Short week: Lunar New Year suspension begins 6 February. | — |
-| 4 | 15 Feb | States of matter and phase diagrams (1)<br>Sublimation, condensation, crystallisation and melting. | — |
-| 5 | 22 Feb | States of matter and phase diagrams (2)<br>Using phase diagrams to explain fluid/solid interactions, including melt–solid systems. | — |
-| 6 | 1 Mar | Mineral–solution interfaces<br>Processes at mineral–solution boundaries. | — |
-| 7 | 15 Mar | Energy exchange in Earth environments (1)<br>Convection, conduction and radiation. | — |
-| 8 | 22 Mar | Energy exchange in Earth environments (2)<br>How energy is exchanged throughout the Earth system. | — |
-| 9 | 29 Mar | Kinetics, reaction rates and isotope fractionation<br>Kinetics and isotope exchange in single-phase systems and across fluid/solid and fluid/gas interfaces. | — |
-| 10 | 5 Apr | Newtonian mechanics and basic laws of motion<br>Principles of motion for gases, liquids and solids on Earth. | — |
-| 11 | 12 Apr | Fluid flow and particle transport<br>Flow and transport in Earth environments. | — |
-| 12 | 19 Apr | Gravitational, geostrophic and centripetal forces<br>The basic forces affecting movement of gases, liquids and solids on Earth. | — |
 
 ## Further information
 
