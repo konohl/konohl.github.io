@@ -7,6 +7,93 @@ term: Second semester
 year: Graduate
 instructor: Kono H. Lemke
 course_id: easc6010
+schedule:
+  - week: 1
+    date: 18 Jan
+    topic: Introduction to nanoscience and length scales
+    description: Length scales of nanomaterials and the onset of size-dependent properties.
+    materials:
+      - name: Syllabus
+        url: https://www.earthsciences.hku.hk/education/postgraduate_students/research_postgraduates/coursework_requirement/
+      - name: Lecture notes
+        url: "#"
+  - week: 2
+    date: 25 Jan
+    topic: Quantum confinement and size-dependent electronic structure
+    description: Quantum confinement and size-tunable electronic and optical properties of nanocrystals.
+    materials:
+      - name: Lecture notes
+        url: "#"
+  - week: 3
+    date: 1 Feb
+    topic: Size-dependent melting, solubility and reactivity
+    description: Size-dependent melting, solubility, and chemical reactivity of nanoparticles.
+    materials:
+      - name: Lecture notes
+        url: "#"
+  - week: 4
+    date: 15 Feb
+    topic: "Occurrence of natural nanomaterials I: definitions, soils and groundwater"
+    description: Definitions of natural nanoparticles and their occurrence in soils and groundwater.
+    materials:
+      - name: Lecture notes
+        url: "#"
+  - week: 5
+    date: 22 Feb
+    topic: "Occurrence II: rivers, lakes, estuaries, oceans and hydrothermal systems"
+    description: Transport and transformation of nanoparticles in aqueous and hydrothermal systems.
+    materials:
+      - name: Lecture notes
+        url: "#"
+  - week: 6
+    date: 1 Mar
+    topic: "Occurrence III: atmosphere, dust, ice and volcanoes"
+    description: Atmospheric, glacial, and volcanic sources of natural nanoparticles.
+    materials:
+      - name: Lecture notes
+        url: "#"
+  - week: 7
+    date: 15 Mar
+    topic: "Occurrence IV: sediments, biology, planetary analogs and methods"
+    description: Biogenic and sedimentary nanoparticles, planetary analogs, and methods of characterisation.
+    materials:
+      - name: Lecture notes
+        url: "#"
+  - week: 8
+    date: 22 Mar
+    topic: "Nanoscale thermodynamics I: serpentinization and awaruite"
+    description: Formation of Fe–Ni nanoparticles during serpentinization.
+    materials:
+      - name: Lecture notes
+        url: "#"
+  - week: 9
+    date: 29 Mar
+    topic: "Nanoscale thermodynamics II: cluster phase diagrams"
+    description: First-principles phase diagrams of ligand-bearing Fe–Ni nanoclusters.
+    materials:
+      - name: Lecture notes
+        url: "#"
+  - week: 10
+    date: 5 Apr
+    topic: Nano-melting and crystallization in binary systems
+    description: Size- and shape-dependent melting and phase equilibria in binary nanoalloys.
+    materials:
+      - name: Lecture notes
+        url: "#"
+  - week: 11
+    date: 12 Apr
+    topic: Segregation, phase indistinguishability and reactivity
+    description: Surface segregation, phase indistinguishability, and nanoscale reactivity.
+    materials:
+      - name: Lecture notes
+        url: "#"
+  - week: 12
+    date: 19 Apr
+    topic: Pressure-induced nano-crystallization
+    description: Combined effects of size, shape, and pressure on nano-crystallization.
+    materials:
+      - name: Lecture notes
+        url: "#"
 ---
 
 ## Course Overview
@@ -28,24 +115,3 @@ Students will:
 - Project work: 100%
 
 Each student takes their own research and develops its nanoscale aspects and features.
-
-## Schedule
-
-| Week | Date | Topic | Materials |
-| --- | --- | --- | --- |
-| 1 | 18 Jan | **Introduction to nanoscience and length scales**<br>Length scales of nanomaterials and the onset of size-dependent properties. | [Syllabus](https://www.earthsciences.hku.hk/education/postgraduate_students/research_postgraduates/coursework_requirement/)<br>Lecture notes |
-| 2 | 25 Jan | **Quantum confinement and size-dependent electronic structure**<br>Quantum confinement and size-tunable electronic and optical properties of nanocrystals. | Lecture notes |
-| 3 | 1 Feb | **Size-dependent melting, solubility and reactivity**<br>Size-dependent melting, solubility, and chemical reactivity of nanoparticles. | Lecture notes |
-| 4 | 15 Feb | **Occurrence of natural nanomaterials I: definitions, soils and groundwater**<br>Definitions of natural nanoparticles and their occurrence in soils and groundwater. | Lecture notes |
-| 5 | 22 Feb | **Occurrence II: rivers, lakes, estuaries, oceans and hydrothermal systems**<br>Transport and transformation of nanoparticles in aqueous and hydrothermal systems. | Lecture notes |
-| 6 | 1 Mar | **Occurrence III: atmosphere, dust, ice and volcanoes**<br>Atmospheric, glacial, and volcanic sources of natural nanoparticles. | Lecture notes |
-| 7 | 15 Mar | **Occurrence IV: sediments, biology, planetary analogs and methods**<br>Biogenic and sedimentary nanoparticles, planetary analogs, and methods of characterisation. | Lecture notes |
-| 8 | 22 Mar | **Nanoscale thermodynamics I: serpentinization and awaruite**<br>Formation of Fe–Ni nanoparticles during serpentinization. | Lecture notes |
-| 9 | 29 Mar | **Nanoscale thermodynamics II: cluster phase diagrams**<br>First-principles phase diagrams of ligand-bearing Fe–Ni nanoclusters. | Lecture notes |
-| 10 | 5 Apr | **Nano-melting and crystallization in binary systems**<br>Size- and shape-dependent melting and phase equilibria in binary nanoalloys. | Lecture notes |
-| 11 | 12 Apr | **Segregation, phase indistinguishability and reactivity**<br>Surface segregation, phase indistinguishability, and nanoscale reactivity. | Lecture notes |
-| 12 | 19 Apr | **Pressure-induced nano-crystallization**<br>Combined effects of size, shape, and pressure on nano-crystallization. | Lecture notes |
-
-## Further information
-
-[HKU Earth Sciences — postgraduate coursework](https://www.earthsciences.hku.hk/education/postgraduate_students/research_postgraduates/coursework_requirement/)
