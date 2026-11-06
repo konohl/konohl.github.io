@@ -13,16 +13,18 @@ schedule:
     topic: Introduction to nanoscience and length scales
     description: Length scales of nanomaterials and the onset of size-dependent properties.
     materials:
-      - name: Syllabus
-        url: https://www.earthsciences.hku.hk/education/postgraduate_students/research_postgraduates/coursework_requirement/
       - name: Lecture notes
         url: "#"
+      - name: Course syllabus
+        url: https://www.earthsciences.hku.hk/education/postgraduate_students/research_postgraduates/coursework_requirement/
   - week: 2
     date: 25 Jan
     topic: Quantum confinement and size-dependent electronic structure
     description: Quantum confinement and size-tunable electronic and optical properties of nanocrystals.
     materials:
       - name: Lecture notes
+        url: "#"
+      - name: Assignment 1
         url: "#"
   - week: 3
     date: 1 Feb
@@ -38,6 +40,8 @@ schedule:
     materials:
       - name: Lecture notes
         url: "#"
+      - name: Assignment 2
+        url: "#"
   - week: 5
     date: 22 Feb
     topic: "Occurrence II: rivers, lakes, estuaries, oceans and hydrothermal systems"
@@ -45,12 +49,16 @@ schedule:
     materials:
       - name: Lecture notes
         url: "#"
+      - name: Case study
+        url: "#"
   - week: 6
     date: 1 Mar
     topic: "Occurrence III: atmosphere, dust, ice and volcanoes"
     description: Atmospheric, glacial, and volcanic sources of natural nanoparticles.
     materials:
       - name: Lecture notes
+        url: "#"
+      - name: Assignment 3
         url: "#"
   - week: 7
     date: 15 Mar
@@ -66,12 +74,16 @@ schedule:
     materials:
       - name: Lecture notes
         url: "#"
+      - name: Assignment 4
+        url: "#"
   - week: 9
     date: 29 Mar
     topic: "Nanoscale thermodynamics II: cluster phase diagrams"
     description: First-principles phase diagrams of ligand-bearing Fe–Ni nanoclusters.
     materials:
       - name: Lecture notes
+        url: "#"
+      - name: DFT lab
         url: "#"
   - week: 10
     date: 5 Apr
@@ -80,6 +92,8 @@ schedule:
     materials:
       - name: Lecture notes
         url: "#"
+      - name: Assignment 5
+        url: "#"
   - week: 11
     date: 12 Apr
     topic: Segregation, phase indistinguishability and reactivity
@@ -87,12 +101,16 @@ schedule:
     materials:
       - name: Lecture notes
         url: "#"
+      - name: DFT lab
+        url: "#"
   - week: 12
     date: 19 Apr
     topic: Pressure-induced nano-crystallization
     description: Combined effects of size, shape, and pressure on nano-crystallization.
     materials:
       - name: Lecture notes
+        url: "#"
+      - name: Assignment 6
         url: "#"
 ---
 
