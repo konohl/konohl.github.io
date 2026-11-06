@@ -15,7 +15,7 @@ schedule:
     materials:
       - name: Lecture notes
         url: "#"
-      - name: Laboratory notes
+      - name: Lab notes
         url: "#"
       - name: Course syllabus
         url: https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=EASC2401
@@ -26,7 +26,7 @@ schedule:
     materials:
       - name: Lecture notes
         url: "#"
-      - name: Laboratory notes
+      - name: Lab notes
         url: "#"
   - week: 3
     date: 2/5 Feb
@@ -35,7 +35,7 @@ schedule:
     materials:
       - name: Lecture notes
         url: "#"
-      - name: Laboratory notes
+      - name: Lab notes
         url: "#"
       - name: Project 1
         url: "#"
@@ -46,7 +46,7 @@ schedule:
     materials:
       - name: Lecture notes
         url: "#"
-      - name: Laboratory notes
+      - name: Lab notes
         url: "#"
   - week: 5
     date: 23/26 Feb
@@ -55,7 +55,7 @@ schedule:
     materials:
       - name: Lecture notes
         url: "#"
-      - name: Laboratory notes
+      - name: Lab notes
         url: "#"
   - week: 6
     date: 2/5 Mar
@@ -64,7 +64,7 @@ schedule:
     materials:
       - name: Lecture notes
         url: "#"
-      - name: Laboratory notes
+      - name: Lab notes
         url: "#"
       - name: Project 2
         url: "#"
@@ -82,7 +82,7 @@ schedule:
     materials:
       - name: Lecture notes
         url: "#"
-      - name: Laboratory notes
+      - name: Lab notes
         url: "#"
   - week: 9
     date: 30 Mar/2 Apr
@@ -91,7 +91,7 @@ schedule:
     materials:
       - name: Lecture notes
         url: "#"
-      - name: Laboratory notes
+      - name: Lab notes
         url: "#"
       - name: Project 3
         url: "#"
@@ -102,7 +102,7 @@ schedule:
     materials:
       - name: Lecture notes
         url: "#"
-      - name: Laboratory notes
+      - name: Lab notes
         url: "#"
   - week: 11
     date: 13/16 Apr
@@ -111,7 +111,7 @@ schedule:
     materials:
       - name: Lecture notes
         url: "#"
-      - name: Laboratory notes
+      - name: Lab notes
         url: "#"
   - week: 12
     date: 20/23 Apr
@@ -120,7 +120,7 @@ schedule:
     materials:
       - name: Lecture notes
         url: "#"
-      - name: Laboratory notes
+      - name: Lab notes
         url: "#"
   - week: ""
     date: 30 Apr
