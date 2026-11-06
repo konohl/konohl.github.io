@@ -70,7 +70,7 @@ schedule:
         url: "#"
   - week: 7
     date: 16/19 Mar
-    topic: Midterm examination
+    topic: Midterm examination 📝
     description: In-class midterm on mineral–fluid equilibria.
     materials:
       - name: Midterm
@@ -107,7 +107,7 @@ schedule:
   - week: 11
     date: 13/16 Apr
     topic: "Phase diagrams II: eutectic and peritectic crystallisation"
-    description: Nano-melting and nano-crystallisation.
+    description: Eutectic and peritectic crystallisation, and nano-melting/crystallisation.
     materials:
       - name: Lecture notes
         url: "#"
@@ -124,7 +124,7 @@ schedule:
         url: "#"
   - week: ""
     date: 30 Apr
-    topic: Final examination
+    topic: Final examination 📝
     description: In-class final examination.
     materials:
       - name: Final examination
