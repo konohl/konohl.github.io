@@ -1,0 +1,38 @@
+{% if site.teachings %}
+  <div class="courses">
+    {% assign group_names = "Undergraduate,Graduate,Common Core" | split: "," %}
+    {% for group_name in group_names %}
+      {% assign year_courses = site.teachings | where: "year", group_name %}
+      {% if year_courses.size > 0 %}
+        <h2 class="year">{{ group_name }}</h2>
+        <div class="course-list">
+          {% for course in year_courses %}
+            <div class="course-item">
+              <h3 class="course-title">
+                <a href="{{ course.url | relative_url }}">{{ course.title }}</a>
+              </h3>
+
+              <div class="course-meta">
+                {% if course.term %}
+                  <span class="course-term">{{ course.term }}</span>
+                {% endif %}
+
+                {% if course.instructor %}
+                  <span class="course-instructor">{{ course.instructor }}</span>
+                {% endif %}
+              </div>
+
+              {% if course.description %}
+                <div class="course-description">
+                  {{ course.description | markdownify }}
+                </div>
+              {% endif %}
+            </div>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+{% else %}
+  <p>No courses available yet.</p>
+{% endif %}
