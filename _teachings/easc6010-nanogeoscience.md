@@ -35,83 +35,47 @@ schedule:
         url: "#"
   - week: 4
     date: 17 Feb
-    topic: "Occurrence of natural nanomaterials I: definitions, soils and groundwater"
-    description: Definitions of natural nanoparticles and their occurrence in soils and groundwater.
+    topic: Occurrence of natural nanomaterials
+    description: Terrestrial, aqueous, atmospheric and biogenic sources of natural nanoparticles.
     materials:
       - name: Lecture notes
         url: "#"
       - name: Assignment 2
         url: "#"
-  - week: 5
-    date: 24 Feb
-    topic: "Occurrence II: rivers, lakes, estuaries, oceans and hydrothermal systems"
-    description: Transport and transformation of nanoparticles in aqueous and hydrothermal systems.
-    materials:
-      - name: Lecture notes
-        url: "#"
       - name: Case study
         url: "#"
-  - week: 6
-    date: 3 Mar
-    topic: "Occurrence III: atmosphere, dust, ice and volcanoes"
-    description: Atmospheric, glacial, and volcanic sources of natural nanoparticles.
+  - week: 5
+    date: 24 Feb
+    topic: "Nanoscale thermodynamics: Fe–Ni nanoparticles and alloys"
+    description: Formation and phase diagrams of Fe–Ni nanoparticles and nanoalloys.
     materials:
       - name: Lecture notes
         url: "#"
       - name: Assignment 3
         url: "#"
-  - week: 7
-    date: 17 Mar
-    topic: "Occurrence IV: sediments, biology, planetary analogs and methods"
-    description: Biogenic and sedimentary nanoparticles, planetary analogs, and methods of characterisation.
-    materials:
-      - name: Lecture notes
-        url: "#"
-  - week: 8
-    date: 24 Mar
-    topic: "Nanoscale thermodynamics I: serpentinization and awaruite"
-    description: Formation of Fe–Ni nanoparticles during serpentinization.
-    materials:
-      - name: Lecture notes
-        url: "#"
-      - name: Assignment 4
-        url: "#"
-  - week: 9
-    date: 31 Mar
-    topic: "Nanoscale thermodynamics II: cluster phase diagrams"
-    description: First-principles phase diagrams of ligand-bearing Fe–Ni nanoclusters.
-    materials:
-      - name: Lecture notes
-        url: "#"
       - name: DFT lab
         url: "#"
-  - week: 10
-    date: 7 Apr
-    topic: Nano-melting and crystallization in binary systems
-    description: Size- and shape-dependent melting and phase equilibria in binary nanoalloys.
-    materials:
-      - name: Lecture notes
-        url: "#"
-      - name: Assignment 5
-        url: "#"
-  - week: 11
-    date: 14 Apr
+  - week: 6
+    date: 3 Mar
     topic: Segregation, phase indistinguishability and reactivity
     description: Surface segregation, phase indistinguishability, and nanoscale reactivity.
     materials:
       - name: Lecture notes
         url: "#"
+      - name: Assignment 4
+        url: "#"
       - name: DFT lab
         url: "#"
-  - week: 12
-    date: 21 Apr
+  - week: 7
+    date: 17 Mar
     topic: Pressure-induced nano-crystallization
     description: Combined effects of size, shape, and pressure on nano-crystallization.
     materials:
       - name: Lecture notes
         url: "#"
-      - name: Assignment 6
+      - name: Assignment 5
         url: "#"
+
 ---
 
 ## Course Overview
