@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-Courses I teach at the University of Hong Kong in Earth and Planetary Sciences and in the Common Core curriculum.
-
 ### EASC2401 — Fluid/Solid Interactions
 
 Undergraduate course on the physical and chemical principles that govern Earth processes at fluid–solid interfaces. Topics include equilibrium thermodynamics, phase diagrams (melting, crystallization, condensation), energy transfer, reaction kinetics and isotope fractionation, and the forces that drive fluid flow and particle transport. It is a core requirement for Earth System Science and Geology majors.
