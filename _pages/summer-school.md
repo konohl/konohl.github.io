@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 ---
 
-<div style="text-align: justify;">
+<div markdown="1" style="text-align: justify;">
 
 Molecules Before Life: Physical Chemistry in Prebiotic Worlds (2027)
 
