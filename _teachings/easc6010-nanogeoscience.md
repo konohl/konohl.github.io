@@ -25,7 +25,9 @@ Students will:
 
 ## Grading
 
-- Continuous assessment: 100%
+- Project work: 100%
+
+Each student takes their own research and develops its nanoscale aspects and features.
 
 ## Schedule
 
@@ -33,18 +35,18 @@ Second semester 2026–27. Twelve lecture weeks from 18 January to 19 April 2027
 
 | Week | Date | Topic | Materials |
 | --- | --- | --- | --- |
-| 1 | 18 Jan | Introduction to nanoscience and length scales<br>What counts as a nanomaterial; comparing human hair, nanowires and nanoparticles; why the surface-to-volume ratio scales as 3/r and begins to dominate properties below about 100 nm. | [Syllabus](https://www.earthsciences.hku.hk/education/postgraduate_students/research_postgraduates/coursework_requirement/)<br>Lecture notes: nanoscience and size-dependent properties |
-| 2 | 25 Jan | Quantum confinement and size-dependent electronic structure<br>How shrinking below the Bohr exciton diameter turns continuous bands into discrete levels; size-tunable bandgaps (including the Brus picture) and photoluminescence of CdS and CdSe quantum dots. | Lecture notes: nanoscience and size-dependent properties |
-| 3 | 1 Feb | Size-dependent melting, solubility and reactivity<br>Melting-point depression in gold nanoparticles; enhanced solubility of fine quartz; faster oxidation of iron nanoparticles — thermodynamic and kinetic consequences of high surface area. Short week: Lunar New Year suspension begins 6 February. | Lecture notes: nanoscience and size-dependent properties |
-| 4 | 15 Feb | Occurrence of natural nanomaterials I: definitions, soils and groundwater<br>Natural nanoparticles versus nanominerals; pH, redox, ionic strength and natural organic matter as controls; nanophases in soils and regolith (including ferrihydrite and nanoclays); colloid transport in groundwater. | Lecture notes: occurrence and distribution |
-| 5 | 22 Feb | Occurrence II: rivers, lakes, estuaries, oceans and hydrothermal systems<br>Fe/Mn cycling in rivers and stratified lakes; estuarine flocculation at the river–sea interface; the marine iron cycle; nanoparticles formed by vent-fluid mixing (Fe oxyhydroxides, Cu–Fe–Zn sulfides, silica). | Lecture notes: occurrence and distribution |
-| 6 | 1 Mar | Occurrence III: atmosphere, dust, ice and volcanoes<br>Aerosol size modes and new particle formation; long-range desert-dust nano-Fe; glacial flour and cryoconite; fumarolic polyoxometalate nanoclusters (Tolbachik); amorphous calcium carbonate and nano-carbonates in karst waters. | Lecture notes: occurrence and distribution |
-| 7 | 15 Mar | Occurrence IV: sediments, biology, planetary analogs and methods<br>Authigenic nano-sulfides and silica; magnetosomes and other biogenic oxides; nanophase iron on the Moon and Mars; DLVO stability, aging, field sampling, and TEM/AFM/spICP-MS methods. | Lecture notes: occurrence and distribution |
-| 8 | 22 Mar | Nanoscale thermodynamics I: serpentinization and awaruite<br>Serpentinization as a natural nanomaterial factory; hydrogen-rich alkaline fluids and Fe–Ni (awaruite) nanoparticles; how N2 and H2 interact at nano-metal surfaces. | Lecture notes: thermodynamics, phase diagrams and crystallization |
-| 9 | 29 Mar | Nanoscale thermodynamics II: cluster phase diagrams<br>Ni9Fe4–NxHy cluster models; first-principles phase maps versus nitrogen and hydrogen chemical potential from 300 to 600 K; why vent nanoparticles can persist or transform differently from bulk alloys. | Lecture notes: thermodynamics, phase diagrams and crystallization |
-| 10 | 5 Apr | Nano-melting and crystallization in binary systems<br>Size- and shape-dependent cohesive energy and melting temperature; the shape factor λ; size-dependent interaction parameters; depression and narrowing of Ni–Cu liquidus/solidus loops. | Lecture notes: nano-melting and crystallization in binary systems |
-| 11 | 12 Apr | Segregation, phase indistinguishability and reactivity<br>The critical size D* where solid and liquid become indistinguishable; migration of the Cu–Au congruent point; surface-energy versus size-mismatch segregation rules; how catalytic activation energy tracks melting temperature; order–disorder trends. | Lecture notes: nano-melting and crystallization in binary systems |
-| 12 | 19 Apr | Pressure-induced nano-crystallization<br>Total effective pressure as external load plus Laplace pressure; mixing enthalpy and excess volume under stress; how pressure can drive eutectic versus isomorphous topology, shift eutectics, suppress segregation, and move D*. | Lecture notes: pressure-induced nano-crystallization |
+| 1 | 18 Jan | Introduction to nanoscience and length scales<br>What nanomaterials are, and why shrinking starts to matter. | [Syllabus](https://www.earthsciences.hku.hk/education/postgraduate_students/research_postgraduates/coursework_requirement/)<br>Lecture notes: nanoscience and size-dependent properties |
+| 2 | 25 Jan | Quantum confinement and size-dependent electronic structure<br>How smaller particles can change the light they give off. | Lecture notes: nanoscience and size-dependent properties |
+| 3 | 1 Feb | Size-dependent melting, solubility and reactivity<br>Why tiny particles melt, dissolve, and react more readily. Short week: Lunar New Year suspension begins 6 February. | Lecture notes: nanoscience and size-dependent properties |
+| 4 | 15 Feb | Occurrence of natural nanomaterials I: definitions, soils and groundwater<br>Where natural nanoparticles turn up in soils and groundwater. | Lecture notes: occurrence and distribution |
+| 5 | 22 Feb | Occurrence II: rivers, lakes, estuaries, oceans and hydrothermal systems<br>How rivers, lakes, seas, and vents carry nanoparticles. | Lecture notes: occurrence and distribution |
+| 6 | 1 Mar | Occurrence III: atmosphere, dust, ice and volcanoes<br>Nanoparticles in the air, in dust, ice, and volcanic settings. | Lecture notes: occurrence and distribution |
+| 7 | 15 Mar | Occurrence IV: sediments, biology, planetary analogs and methods<br>Life, sediments, other worlds, and how we study them. | Lecture notes: occurrence and distribution |
+| 8 | 22 Mar | Nanoscale thermodynamics I: serpentinization and awaruite<br>How rocks reacting with water make natural metal nanoparticles. | Lecture notes: thermodynamics, phase diagrams and crystallization |
+| 9 | 29 Mar | Nanoscale thermodynamics II: cluster phase diagrams<br>Which tiny phases stay stable as temperature and gases change. | Lecture notes: thermodynamics, phase diagrams and crystallization |
+| 10 | 5 Apr | Nano-melting and crystallization in binary systems<br>How size and shape change melting in mixed metals. | Lecture notes: nano-melting and crystallization in binary systems |
+| 11 | 12 Apr | Segregation, phase indistinguishability and reactivity<br>Why atoms rearrange, and how the smallest grains behave. | Lecture notes: nano-melting and crystallization in binary systems |
+| 12 | 19 Apr | Pressure-induced nano-crystallization<br>How squeezing nanoparticles changes the way they crystallize. | Lecture notes: pressure-induced nano-crystallization |
 
 ## Further information
 
