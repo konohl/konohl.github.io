@@ -132,11 +132,6 @@ Students will:
 ## Grading
 
 - Project work: 40%
-- Assignment 1: 10%
-- Assignment 2: 10%
-- Assignment 3: 10%
-- Assignment 4: 10%
-- Assignment 5: 10%
-- Assignment 6: 10%
+- Assignments 1–6: 10% each
 
 Each student takes their own research and develops its nanoscale aspects and features.
