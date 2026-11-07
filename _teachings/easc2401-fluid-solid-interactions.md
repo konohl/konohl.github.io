@@ -10,7 +10,7 @@ course_id: easc2401
 schedule:
   - week: 1
     date: 19/22 Jan
-    topic: "Equilibrium I: chemical energy and reference states"
+    topic: "Chemical energy of aqueous species and solids"
     description: Chemical energy and reference states of aqueous species and solids.
     materials:
       - name: Lecture notes
@@ -21,8 +21,8 @@ schedule:
         url: https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=EASC2401
   - week: 2
     date: 26/29 Jan
-    topic: "Equilibrium II: water, activity and mineral solubility"
-    description: Ion hydration and mineral–water solubility.
+    topic: "Activity, hydration and mineral solubility"
+    description: Ion hydration, activity, and mineral–water solubility.
     materials:
       - name: Lecture notes
         url: "#"
@@ -41,8 +41,8 @@ schedule:
         url: "#"
   - week: 4
     date: 16/19 Feb
-    topic: "Hydrothermal solubility: pC–T diagrams"
-    description: pC–T diagrams of mineral–fluid and alloy–fluid equilibria.
+    topic: "pC–T diagrams of hydrothermal solubility"
+    description: pC–T diagrams of mineral–fluid and alloy–fluid solubility.
     materials:
       - name: Lecture notes
         url: "#"
@@ -50,7 +50,7 @@ schedule:
         url: "#"
   - week: 5
     date: 23/26 Feb
-    topic: "Mineral–water interfaces: sorption and surface charge"
+    topic: "Sorption and surface charge at mineral–water interfaces"
     description: Sorption and mineral–water surface charge.
     materials:
       - name: Lecture notes
@@ -59,7 +59,7 @@ schedule:
         url: "#"
   - week: 6
     date: 2/5 Mar
-    topic: "Stable isotope fractionation: zero-point energy and exchange"
+    topic: "Isotope fractionation between fluids and solids"
     description: Zero-point energy, molecular vibrations, and fluid–solid isotope fractionation.
     materials:
       - name: Lecture notes
@@ -97,7 +97,7 @@ schedule:
         url: "#"
   - week: 10
     date: 6/9 Apr
-    topic: The phase rule and one-component systems
+    topic: The phase rule and one-component melt–crystal systems
     description: One-component fluid and solid phases, and melt–crystal paths.
     materials:
       - name: Lecture notes
