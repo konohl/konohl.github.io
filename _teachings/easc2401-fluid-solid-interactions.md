@@ -97,8 +97,8 @@ schedule:
         url: "#"
   - week: 10
     date: 6/9 Apr
-    topic: The phase rule and one-component melt–crystal systems
-    description: One-component fluid and solid phases, and melt–crystal paths.
+    topic: "Melt–crystal equilibria: the phase rule and binary systems"
+    description: The phase rule, one-component systems, and eutectic and peritectic paths in binary melts.
     materials:
       - name: Lecture notes
         url: "#"
@@ -106,8 +106,8 @@ schedule:
         url: "#"
   - week: 11
     date: 13/16 Apr
-    topic: Binary systems and equilibrium crystallisation
-    description: Eutectic and peritectic melt–crystal paths in binary systems.
+    topic: Ternary melt–crystal systems and non-equilibrium crystallisation
+    description: Ternary melt–crystal diagrams, volatiles, and non-equilibrium crystallisation paths.
     materials:
       - name: Lecture notes
         url: "#"
@@ -115,8 +115,8 @@ schedule:
         url: "#"
   - week: 12
     date: 20/23 Apr
-    topic: Ternary systems and non-equilibrium crystallisation
-    description: Ternary melt–crystal diagrams, volatiles, and non-equilibrium paths.
+    topic: Fluid flow and particle transport at interfaces
+    description: Flow and particle transport at fluid–solid and melt–solid interfaces.
     materials:
       - name: Lecture notes
         url: "#"
