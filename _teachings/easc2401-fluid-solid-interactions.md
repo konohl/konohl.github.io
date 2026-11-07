@@ -156,7 +156,9 @@ Students will:
 
 - Midterm examination: 15%
 - Projects 1–3 (oral examination): 15% each
-- Final examination: 40%
+- Final examination (written and oral): 40%
+
+Each student first sits a written paper and is then examined orally, individually, on the material of the examination.
 
 ## Further information
 
