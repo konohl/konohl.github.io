@@ -10,8 +10,8 @@ course_id: easc2401
 schedule:
   - week: 1
     date: 19/22 Jan
-    topic: "Equilibrium I: Gibbs energy and standard states"
-    description: Gibbs energy and standard states of aqueous species and solids.
+    topic: "Equilibrium I: chemical energy and reference states"
+    description: Chemical energy and reference states of aqueous species and solids.
     materials:
       - name: Lecture notes
         url: "#"
@@ -30,8 +30,8 @@ schedule:
         url: "#"
   - week: 3
     date: 2/5 Feb
-    topic: "Hydrothermal solubility: gold, sphalerite and complexation"
-    description: Hydrothermal fluid complexation of minerals and alloys.
+    topic: "Hydrothermal solubility: minerals, metals and alloys"
+    description: Hydrothermal fluid complexation of minerals, metals and alloys.
     materials:
       - name: Lecture notes
         url: "#"
@@ -60,7 +60,7 @@ schedule:
   - week: 6
     date: 2/5 Mar
     topic: "Stable isotope fractionation: zero-point energy and exchange"
-    description: Zero-point energy and isotope exchange between fluid and solid.
+    description: Zero-point energy, molecular vibrations, and fluid–solid isotope fractionation.
     materials:
       - name: Lecture notes
         url: "#"
@@ -77,8 +77,8 @@ schedule:
         url: "#"
   - week: 8
     date: 23/26 Mar
-    topic: "Oxygen isotopes: ice–water interface exchange"
-    description: Ice–water interface isotope exchange.
+    topic: Ice–water interface reactions
+    description: Physical and chemical reactions at the ice–water interface.
     materials:
       - name: Lecture notes
         url: "#"
@@ -86,8 +86,8 @@ schedule:
         url: "#"
   - week: 9
     date: 30 Mar/2 Apr
-    topic: Mineral carbonation
-    description: Silicate–fluid carbonation reactions in the subsurface.
+    topic: "CO₂ mineralisation"
+    description: Silicate–fluid reactions forming carbonate in the subsurface.
     materials:
       - name: Lecture notes
         url: "#"
@@ -97,8 +97,8 @@ schedule:
         url: "#"
   - week: 10
     date: 6/9 Apr
-    topic: "Phase diagrams I: the phase rule and plagioclase"
-    description: One-component fluid and solid phases, and plagioclase melt–crystal paths.
+    topic: The phase rule and one-component systems
+    description: One-component fluid and solid phases, and melt–crystal paths.
     materials:
       - name: Lecture notes
         url: "#"
@@ -106,8 +106,8 @@ schedule:
         url: "#"
   - week: 11
     date: 13/16 Apr
-    topic: "Phase diagrams II: eutectic and peritectic crystallisation"
-    description: Eutectic and peritectic crystallisation, and nano-melting/crystallisation.
+    topic: Binary systems and equilibrium crystallisation
+    description: Eutectic and peritectic melt–crystal paths in binary systems.
     materials:
       - name: Lecture notes
         url: "#"
@@ -115,8 +115,8 @@ schedule:
         url: "#"
   - week: 12
     date: 20/23 Apr
-    topic: "Phase diagrams III: ternary systems"
-    description: Ternary melt–crystal diagrams, volatiles, and nano-crystallisation.
+    topic: Ternary systems and non-equilibrium crystallisation
+    description: Ternary melt–crystal diagrams, volatiles, and non-equilibrium paths.
     materials:
       - name: Lecture notes
         url: "#"
@@ -154,9 +154,9 @@ Students will:
 
 ## Grading
 
-- In-class examination: 40%
-- Project reports (3 projects): 45%
-- Test: 15%
+- Midterm examination: 15%
+- Projects 1–3 (oral examination): 15% each
+- Final examination: 40%
 
 ## Further information
 
