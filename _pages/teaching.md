@@ -7,4 +7,6 @@ nav: true
 nav_order: 6
 ---
 
+{% include audio.liquid path="assets/audio/original-composition.mp3" controls=true autoplay=true caption="Optional soundtrack. I wrote this; it runs about thirteen minutes, which is longer than some of the abstracts." %}
+
 {% include courses.liquid %}
