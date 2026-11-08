@@ -1,0 +1,79 @@
+<style>
+#site-soundtrack-wrap {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  opacity: 0;
+  pointer-events: none;
+}
+</style>
+<div id="site-soundtrack-wrap" aria-hidden="true">
+  <audio id="site-soundtrack" src="{{ '/assets/audio/original-composition.mp3' | relative_url }}" autoplay preload="auto"></audio>
+</div>
+<script>
+(function () {
+  var KEY = "khl-soundtrack-time";
+  var audio = document.getElementById("site-soundtrack");
+  if (!audio) return;
+
+  var save = function () {
+    try {
+      sessionStorage.setItem(KEY, String(audio.currentTime || 0));
+    } catch (e) {}
+  };
+
+  var restore = function () {
+    var t = 0;
+    try {
+      t = parseFloat(sessionStorage.getItem(KEY) || "0");
+    } catch (e) {
+      t = 0;
+    }
+    if (!isFinite(t) || t < 0) t = 0;
+    if (isFinite(audio.duration) && audio.duration > 0 && t >= audio.duration - 0.25) {
+      return false;
+    }
+    if (t > 0) {
+      try {
+        audio.currentTime = t;
+      } catch (e) {}
+    }
+    return true;
+  };
+
+  var tryPlay = function () {
+    if (!restore()) return Promise.resolve();
+    return audio.play().catch(function () {});
+  };
+
+  audio.addEventListener("loadedmetadata", function () {
+    restore();
+    tryPlay();
+  });
+  audio.addEventListener("timeupdate", save);
+  audio.addEventListener("pause", save);
+  audio.addEventListener("ended", save);
+  window.addEventListener("pagehide", save);
+  window.addEventListener("beforeunload", save);
+  document.addEventListener("visibilitychange", function () {
+    if (document.hidden) save();
+  });
+
+  var start = function () {
+    tryPlay();
+    document.removeEventListener("click", start, true);
+    document.removeEventListener("keydown", start, true);
+    document.removeEventListener("touchstart", start, true);
+  };
+  document.addEventListener("click", start, true);
+  document.addEventListener("keydown", start, true);
+  document.addEventListener("touchstart", start, true);
+
+  if (audio.readyState >= 1) {
+    restore();
+    tryPlay();
+  }
+})();
+</script>
