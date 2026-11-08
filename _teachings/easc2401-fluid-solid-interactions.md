@@ -133,7 +133,7 @@ schedule:
 
 ## Course Overview
 
-This course provides an overview of the physical and chemical principles that govern Earth processes. Topics include scaling time and space in the laboratory, equilibrium thermodynamics, states of matter and phase diagrams, mineral-solution interfaces, energy exchange by convection, conduction and radiation, kinetics and isotope fractionation, Newtonian mechanics, fluid flow and particle transport, and gravitational, geostrophic and centripetal forces.
+This course provides an overview of the physical and chemical processes that govern fluid–solid interactions in Earth environments, including mineral solubility in aqueous and hydrothermal fluids, reactions at mineral–water and related interfaces, melt–crystal equilibria, and fluid flow and particle transport at fluid–solid and melt–solid interfaces.
 
 Students will:
 
@@ -141,7 +141,7 @@ Students will:
 - Use phase diagrams to explain processes of fluid/solid interactions, in particular systems containing melts and solids
 - Describe how energy is exchanged throughout the Earth System
 - Demonstrate an understanding of principles governing isotope exchange reactions in single-phase systems and across fluid/solid and fluid/gas interfaces
-- Comprehend the principles of motion and the basic forces affecting movement of gases, liquids and solids on Earth
+- Understand fluid flow and particle transport at fluid–solid and melt–solid interfaces
 
 ## Prerequisites
 
