@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /summer-school/
-title: Summer school
+title: Summer school 🔬
 description: ""
 nav: true
 nav_order: 7
@@ -9,7 +9,7 @@ nav_order: 7
 
 <div markdown="1" style="text-align: justify;">
 
-Molecules Before Life: Physical Chemistry in Prebiotic Worlds (2027)
+Molecules Before Life: Physical Chemistry in Prebiotic Worlds (2027) 📢
 
 How did chemistry become biology? Students often encounter the origin of life as a story about what may have happened on the early Earth. This summer school treats it instead as a scientific problem that can be tested, measured, and argued from evidence.
 
@@ -21,7 +21,7 @@ Rather than rehearsing a fixed narrative about the origin of life, students will
 
 English will be the medium of instruction. Junior-secondary science is sufficient background; HKDSE Chemistry is not required.
 
-### Programme Approach
+### Programme Approach 🧭
 
 The summer school will begin with an introduction to the physical and chemical conditions that may have existed on the early Earth. These include liquid water, warm or hot environments, possible acidity in early oceans, and hydrothermal systems with strong gradients in temperature, pressure, and chemistry.
 
@@ -29,7 +29,7 @@ Students will then examine how simple organic molecules behave under these condi
 
 As the programme progresses, students will move from structured experiments to mentored mini-projects. In small groups, they will develop a testable question, collect data, evaluate uncertainty, and prepare a final poster or short oral presentation. They will also write a short reflection on what they learned about scientific evidence, experimental limits, and the difficulty of reconstructing chemistry from the deep past.
 
-### Learning Goals
+### Learning Goals 🎯
 
 By the end of the programme, students should be able to:
 
@@ -44,7 +44,7 @@ By the end of the programme, students should be able to:
 
 The aim is not for students to “solve” the origin of life. The aim is for them to experience how scientists ask practical questions about it: what can survive, what breaks down, what reacts, and how do we know?
 
-### Scientific Context
+### Scientific Context 🧪
 
 The programme is based on research into the physical chemistry of prebiotic environments. Long before biology existed, simple molecules on the early Earth would have been shaped by environmental extremes: heat, acidity or alkalinity, pressure, dissolved minerals, and reactive surfaces. These factors may have determined whether organic molecules survived, decomposed, or became available for further chemistry.
 
