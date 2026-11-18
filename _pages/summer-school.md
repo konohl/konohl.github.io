@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /summer-school/
-title: Summer school 🔬
+title: Summer school
 description: ""
 nav: true
 nav_order: 7
