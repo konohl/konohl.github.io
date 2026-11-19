@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-<b>:loudspeaker: New FO-CRDS spectrometer for prebiotic studies, Nov.19, 2026 </b> :bulb: :gem: :droplet: 
+<b>:loudspeaker: New FO-CRDS spectrometer for prebiotic studies, Nov.19, 2026 </b> :flashlight: :arrow_right: :o: :dna: :gem: 
 
 <div style="text-align: justify;">
 <p>
