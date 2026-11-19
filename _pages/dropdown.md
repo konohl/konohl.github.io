@@ -8,9 +8,10 @@ children:
   - title: publications
     permalink: /publications/
   - title: divider
-  - title: projects
-    permalink: /projects/
-  - title: divider
+  # Temporarily hide Projects from navigation (uncomment to restore):
+  # - title: projects
+  #   permalink: /projects/
+  # - title: divider
   - title: cv
     permalink: /cv/
 ---

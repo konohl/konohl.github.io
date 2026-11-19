@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Laboratories and funded research projects in the group.
-nav: true
+nav: false  # temporarily hidden from navbar (set true to restore)
 nav_order: 3
 display_categories: [laboratories, funded GRF]
 horizontal: false
