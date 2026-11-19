@@ -9,76 +9,82 @@ nav_order: 4
 
 <style>
   /* Scoped Fe4Ni9 card — not in theme SCSS. */
+  .repositories-users {
+    align-items: stretch !important;
+  }
   .repo.repo-fe4ni9 {
     flex: 1 1 50%;
     width: 50%;
     max-width: 50%;
+    display: flex;
+    align-items: stretch;
   }
   .fe4ni9-card {
     display: flex;
     align-items: center;
     box-sizing: border-box;
     width: 100%;
+    height: 100%;
     margin: 0;
-    padding: 8px 10px;
+    padding: 8px 10px 8px 12px;
     text-align: left;
     color: #434d58;
     background: #fff;
     border: 1px solid #e4e2e2;
     border-radius: 4.5px;
-    font-family: "Roboto", "Segoe UI", Ubuntu, "Helvetica Neue", sans-serif;
-    font-size: 13px;
-    line-height: 1.25;
+    font-family: "Segoe UI", Ubuntu, "Helvetica Neue", Roboto, sans-serif;
+    font-size: 11.5px;
+    font-weight: 600;
+    line-height: 1.3;
+  }
+  @media (min-width: 768px) {
+    .fe4ni9-card {
+      aspect-ratio: 467 / 195;
+      height: auto;
+    }
   }
   .fe4ni9-card__body {
     flex: 1 1 auto;
     min-width: 0;
+    display: grid;
+    grid-template-columns: 14px max-content 1fr;
+    column-gap: 6px;
+    row-gap: 2px;
+    align-items: center;
   }
   .fe4ni9-card__title {
-    margin: 0 0 5px;
+    grid-column: 1 / -1;
+    margin: 0 0 4px;
     color: #2f80ed;
-    font-size: 15px;
+    font-size: 12.5px;
     font-weight: 600;
-    line-height: 1.25;
+    line-height: 1.2;
+    white-space: nowrap;
   }
   .fe4ni9-card__row {
-    display: flex;
-    align-items: flex-start;
-    margin: 2px 0;
+    display: contents;
     color: #434d58;
-    font-size: 13px;
-    font-weight: 700;
+    font-size: 11.5px;
+    font-weight: 600;
   }
   .fe4ni9-card__icon {
-    flex: 0 0 16px;
-    width: 16px;
-    height: 16px;
-    margin: 1px 6px 0 0;
+    width: 14px;
+    height: 14px;
     fill: #4c71f2;
   }
-  .fe4ni9-card__label {
-    flex: 0 0 auto;
-    width: 7.6em;
-    margin-right: 6px;
-    white-space: nowrap;
-  }
+  .fe4ni9-card__label,
   .fe4ni9-card__value {
-    flex: 1 1 auto;
-    min-width: 0;
     white-space: nowrap;
-  }
-  .fe4ni9-card__value--wrap {
-    white-space: normal;
-  }
-  .fe4ni9-nobr {
-    white-space: nowrap;
+    color: #434d58;
+    font-size: 11.5px;
+    font-weight: 600;
   }
   .fe4ni9-card__ring {
     display: block;
-    flex: 0 0 110px;
-    width: 110px;
-    height: 110px;
-    margin-left: 6px;
+    flex: 0 0 auto;
+    width: 108px;
+    height: 108px;
+    margin-left: 8px;
     object-fit: contain;
   }
   /* Keep a white card in dark mode so the ring plot stays readable. */
@@ -88,24 +94,16 @@ nav_order: 4
     color: #434d58;
   }
   @media (max-width: 767.98px) {
+    .repositories-users {
+      align-items: center !important;
+    }
     .repo.repo-fe4ni9 {
       flex: 1 1 100%;
       width: 100%;
       max-width: 100%;
     }
     .fe4ni9-card {
-      font-size: 14px;
-      padding: 12px 14px;
-    }
-    .fe4ni9-card__title {
-      font-size: 16px;
-    }
-    .fe4ni9-card__row {
-      font-size: 14px;
-      align-items: center;
-    }
-    .fe4ni9-card__label {
-      width: 9.5em;
+      height: auto;
     }
   }
   @media (max-width: 575.98px) {
@@ -113,11 +111,13 @@ nav_order: 4
       flex-direction: column;
       align-items: stretch;
     }
+    .fe4ni9-card__title {
+      white-space: normal;
+    }
     .fe4ni9-card__ring {
-      flex-basis: auto;
-      width: 150px;
-      height: 150px;
-      margin: 8px auto 0;
+      width: 110px;
+      height: 110px;
+      margin: 6px auto 0;
     }
   }
 </style>
@@ -126,7 +126,7 @@ nav_order: 4
 
 {% if site.data.repositories.github_users %}
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+<div class="repositories repositories-users d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for user in site.data.repositories.github_users %}
     {% include repository/repo_user.liquid username=user %}
   {% endfor %}
