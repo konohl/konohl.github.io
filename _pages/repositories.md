@@ -87,11 +87,22 @@ nav_order: 4
     margin-left: 8px;
     object-fit: contain;
   }
-  /* Keep a white card in dark mode so the ring plot stays readable. */
+  /* Dark mode: match the github-readme-stats "dark" card beside it. */
   html[data-theme="dark"] .fe4ni9-card {
-    background: #fff;
+    background: #151515;
     border-color: #e4e2e2;
-    color: #434d58;
+    color: #9f9f9f;
+  }
+  html[data-theme="dark"] .fe4ni9-card__title {
+    color: #fff;
+  }
+  html[data-theme="dark"] .fe4ni9-card__icon {
+    fill: #79ff97;
+  }
+  html[data-theme="dark"] .fe4ni9-card__row,
+  html[data-theme="dark"] .fe4ni9-card__label,
+  html[data-theme="dark"] .fe4ni9-card__value {
+    color: #9f9f9f;
   }
   @media (max-width: 767.98px) {
     .repositories-users {
