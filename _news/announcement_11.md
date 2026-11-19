@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  <b>Prebiotic Fluid Studies</b> - New FO-CRDS Facility
+title:  <b>Optical Cavities for High-Pressure Chemistry</b> - New FO-CRDS Facility
 date: 2026-11-19
 inline: false
 related_posts: false
