@@ -79,6 +79,15 @@ nav_order: 4
     font-size: 11.5px;
     font-weight: 600;
   }
+  .fe4ni9-card__value a {
+    color: inherit;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .fe4ni9-card__value a:hover,
+  .fe4ni9-card__value a:focus {
+    text-decoration: underline;
+  }
   .fe4ni9-card__ring {
     display: block;
     flex: 0 0 auto;
@@ -103,6 +112,9 @@ nav_order: 4
   html[data-theme="dark"] .fe4ni9-card__label,
   html[data-theme="dark"] .fe4ni9-card__value {
     color: #9f9f9f;
+  }
+  html[data-theme="dark"] .fe4ni9-card__value a {
+    color: inherit;
   }
   @media (max-width: 767.98px) {
     .repositories-users {
