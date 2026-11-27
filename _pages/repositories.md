@@ -78,6 +78,10 @@ nav_order: 4
     font-size: 11.5px;
     font-weight: 600;
   }
+  /* (SO2)13 Method value is longer than on the metal cards; allow this one line to wrap so it does not run under the ring. */
+  .so2-13-card__title + .so2-13-card__row .so2-13-card__value {
+    white-space: normal;
+  }
   .fe4ni9-card__value a, .fe14ni41-card__value a, .so2-13-card__value a {
     color: inherit;
     text-decoration: none;
