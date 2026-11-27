@@ -90,7 +90,7 @@ nav_order: 4
   .fe4ni9-card__value a:hover, .fe14ni41-card__value a:hover, .fe4ni9-card__value a:focus, .fe14ni41-card__value a:focus, .so2-13-card__value a:hover, .so2-13-card__value a:focus, .oh-h2o-26-card__value a:hover, .oh-h2o-26-card__value a:focus {
     text-decoration: underline;
   }
-  .fe4ni9-card__ring, .fe14ni41-card__ring, .so2-13-card__ring, .oh-h2o-26-card__ring, .oh-h2o-26-card__tree {
+  .fe4ni9-card__ring, .fe14ni41-card__ring, .so2-13-card__ring, .oh-h2o-26-card__ring {
     display: block;
     flex: 0 0 auto;
     width: 108px;
@@ -137,7 +137,7 @@ nav_order: 4
     .fe4ni9-card__title, .fe14ni41-card__title, .so2-13-card__title, .oh-h2o-26-card__title {
       white-space: normal;
     }
-    .fe4ni9-card__ring, .fe14ni41-card__ring, .so2-13-card__ring, .oh-h2o-26-card__ring, .oh-h2o-26-card__tree {
+    .fe4ni9-card__ring, .fe14ni41-card__ring, .so2-13-card__ring, .oh-h2o-26-card__ring {
       width: 110px;
       height: 110px;
       margin: 6px auto 0;
