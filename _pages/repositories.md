@@ -8,18 +8,18 @@ nav_order: 4
 ---
 
 <style>
-  /* Scoped Fe4Ni9 / Fe14Ni41 / (SO2)13 cards — not in theme SCSS. */
+  /* Scoped Fe4Ni9 / Fe14Ni41 / (SO2)13 / OH-(H2O)26 cards — not in theme SCSS. */
   .repositories-users {
     align-items: stretch !important;
   }
-  .repo.repo-fe4ni9, .repo.repo-fe14ni41, .repo.repo-so2-13 {
+  .repo.repo-fe4ni9, .repo.repo-fe14ni41, .repo.repo-so2-13, .repo.repo-oh-h2o-26 {
     flex: 1 1 50%;
     width: 50%;
     max-width: 50%;
     display: flex;
     align-items: stretch;
   }
-  .fe4ni9-card, .fe14ni41-card, .so2-13-card {
+  .fe4ni9-card, .fe14ni41-card, .so2-13-card, .oh-h2o-26-card {
     display: flex;
     align-items: center;
     box-sizing: border-box;
@@ -38,12 +38,12 @@ nav_order: 4
     line-height: 1.3;
   }
   @media (min-width: 768px) {
-    .fe4ni9-card, .fe14ni41-card, .so2-13-card {
+    .fe4ni9-card, .fe14ni41-card, .so2-13-card, .oh-h2o-26-card {
       aspect-ratio: 467 / 195;
       height: auto;
     }
   }
-  .fe4ni9-card__body, .fe14ni41-card__body, .so2-13-card__body {
+  .fe4ni9-card__body, .fe14ni41-card__body, .so2-13-card__body, .oh-h2o-26-card__body {
     flex: 1 1 auto;
     min-width: 0;
     display: grid;
@@ -52,7 +52,7 @@ nav_order: 4
     row-gap: 2px;
     align-items: center;
   }
-  .fe4ni9-card__title, .fe14ni41-card__title, .so2-13-card__title {
+  .fe4ni9-card__title, .fe14ni41-card__title, .so2-13-card__title, .oh-h2o-26-card__title {
     grid-column: 1 / -1;
     margin: 0 0 4px;
     color: #2f80ed;
@@ -61,18 +61,18 @@ nav_order: 4
     line-height: 1.2;
     white-space: nowrap;
   }
-  .fe4ni9-card__row, .fe14ni41-card__row, .so2-13-card__row {
+  .fe4ni9-card__row, .fe14ni41-card__row, .so2-13-card__row, .oh-h2o-26-card__row {
     display: contents;
     color: #434d58;
     font-size: 11.5px;
     font-weight: 600;
   }
-  .fe4ni9-card__icon, .fe14ni41-card__icon, .so2-13-card__icon {
+  .fe4ni9-card__icon, .fe14ni41-card__icon, .so2-13-card__icon, .oh-h2o-26-card__icon {
     width: 14px;
     height: 14px;
     fill: #4c71f2;
   }
-  .fe4ni9-card__label, .fe14ni41-card__label, .fe4ni9-card__value, .fe14ni41-card__value, .so2-13-card__label, .so2-13-card__value {
+  .fe4ni9-card__label, .fe14ni41-card__label, .fe4ni9-card__value, .fe14ni41-card__value, .so2-13-card__label, .so2-13-card__value, .oh-h2o-26-card__label, .oh-h2o-26-card__value {
     white-space: nowrap;
     color: #434d58;
     font-size: 11.5px;
@@ -82,15 +82,15 @@ nav_order: 4
   .so2-13-card__title + .so2-13-card__row .so2-13-card__value {
     white-space: normal;
   }
-  .fe4ni9-card__value a, .fe14ni41-card__value a, .so2-13-card__value a {
+  .fe4ni9-card__value a, .fe14ni41-card__value a, .so2-13-card__value a, .oh-h2o-26-card__value a {
     color: inherit;
     text-decoration: none;
     font-weight: 600;
   }
-  .fe4ni9-card__value a:hover, .fe14ni41-card__value a:hover, .fe4ni9-card__value a:focus, .fe14ni41-card__value a:focus, .so2-13-card__value a:hover, .so2-13-card__value a:focus {
+  .fe4ni9-card__value a:hover, .fe14ni41-card__value a:hover, .fe4ni9-card__value a:focus, .fe14ni41-card__value a:focus, .so2-13-card__value a:hover, .so2-13-card__value a:focus, .oh-h2o-26-card__value a:hover, .oh-h2o-26-card__value a:focus {
     text-decoration: underline;
   }
-  .fe4ni9-card__ring, .fe14ni41-card__ring, .so2-13-card__ring {
+  .fe4ni9-card__ring, .fe14ni41-card__ring, .so2-13-card__ring, .oh-h2o-26-card__ring {
     display: block;
     flex: 0 0 auto;
     width: 108px;
@@ -99,45 +99,45 @@ nav_order: 4
     object-fit: contain;
   }
   /* Dark mode: match the github-readme-stats "dark" card beside it. */
-  html[data-theme="dark"] .fe4ni9-card, html[data-theme="dark"] .fe14ni41-card, html[data-theme="dark"] .so2-13-card {
+  html[data-theme="dark"] .fe4ni9-card, html[data-theme="dark"] .fe14ni41-card, html[data-theme="dark"] .so2-13-card, html[data-theme="dark"] .oh-h2o-26-card {
     background: #151515;
     border-color: #e4e2e2;
     color: #9f9f9f;
   }
-  html[data-theme="dark"] .fe4ni9-card__title, html[data-theme="dark"] .fe14ni41-card__title, html[data-theme="dark"] .so2-13-card__title {
+  html[data-theme="dark"] .fe4ni9-card__title, html[data-theme="dark"] .fe14ni41-card__title, html[data-theme="dark"] .so2-13-card__title, html[data-theme="dark"] .oh-h2o-26-card__title {
     color: #fff;
   }
-  html[data-theme="dark"] .fe4ni9-card__icon, html[data-theme="dark"] .fe14ni41-card__icon, html[data-theme="dark"] .so2-13-card__icon {
+  html[data-theme="dark"] .fe4ni9-card__icon, html[data-theme="dark"] .fe14ni41-card__icon, html[data-theme="dark"] .so2-13-card__icon, html[data-theme="dark"] .oh-h2o-26-card__icon {
     fill: #79ff97;
   }
-  html[data-theme="dark"] .fe4ni9-card__row, html[data-theme="dark"] .fe14ni41-card__row, html[data-theme="dark"] .fe4ni9-card__label, html[data-theme="dark"] .fe14ni41-card__label, html[data-theme="dark"] .fe4ni9-card__value, html[data-theme="dark"] .fe14ni41-card__value, html[data-theme="dark"] .so2-13-card__row, html[data-theme="dark"] .so2-13-card__label, html[data-theme="dark"] .so2-13-card__value {
+  html[data-theme="dark"] .fe4ni9-card__row, html[data-theme="dark"] .fe14ni41-card__row, html[data-theme="dark"] .fe4ni9-card__label, html[data-theme="dark"] .fe14ni41-card__label, html[data-theme="dark"] .fe4ni9-card__value, html[data-theme="dark"] .fe14ni41-card__value, html[data-theme="dark"] .so2-13-card__row, html[data-theme="dark"] .so2-13-card__label, html[data-theme="dark"] .so2-13-card__value, html[data-theme="dark"] .oh-h2o-26-card__row, html[data-theme="dark"] .oh-h2o-26-card__label, html[data-theme="dark"] .oh-h2o-26-card__value {
     color: #9f9f9f;
   }
-  html[data-theme="dark"] .fe4ni9-card__value a, html[data-theme="dark"] .fe14ni41-card__value a, html[data-theme="dark"] .so2-13-card__value a {
+  html[data-theme="dark"] .fe4ni9-card__value a, html[data-theme="dark"] .fe14ni41-card__value a, html[data-theme="dark"] .so2-13-card__value a, html[data-theme="dark"] .oh-h2o-26-card__value a {
     color: inherit;
   }
   @media (max-width: 767.98px) {
     .repositories-users {
       align-items: center !important;
     }
-    .repo.repo-fe4ni9, .repo.repo-fe14ni41, .repo.repo-so2-13 {
+    .repo.repo-fe4ni9, .repo.repo-fe14ni41, .repo.repo-so2-13, .repo.repo-oh-h2o-26 {
       flex: 1 1 100%;
       width: 100%;
       max-width: 100%;
     }
-    .fe4ni9-card, .fe14ni41-card, .so2-13-card {
+    .fe4ni9-card, .fe14ni41-card, .so2-13-card, .oh-h2o-26-card {
       height: auto;
     }
   }
   @media (max-width: 575.98px) {
-    .fe4ni9-card, .fe14ni41-card, .so2-13-card {
+    .fe4ni9-card, .fe14ni41-card, .so2-13-card, .oh-h2o-26-card {
       flex-direction: column;
       align-items: stretch;
     }
-    .fe4ni9-card__title, .fe14ni41-card__title, .so2-13-card__title {
+    .fe4ni9-card__title, .fe14ni41-card__title, .so2-13-card__title, .oh-h2o-26-card__title {
       white-space: normal;
     }
-    .fe4ni9-card__ring, .fe14ni41-card__ring, .so2-13-card__ring {
+    .fe4ni9-card__ring, .fe14ni41-card__ring, .so2-13-card__ring, .oh-h2o-26-card__ring {
       width: 110px;
       height: 110px;
       margin: 6px auto 0;
@@ -151,6 +151,7 @@ nav_order: 4
   {% include repository/fe4ni9_card.liquid %}
   {% include repository/fe14ni41_card.liquid %}
   {% include repository/so2_13_card.liquid %}
+  {% include repository/oh_h2o_26_card.liquid %}
 </div>
 
 ---
