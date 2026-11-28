@@ -12,6 +12,9 @@ nav_order: 4
   .repositories-users {
     align-items: stretch !important;
   }
+  .repositories-users-molecular {
+    margin-top: 1.5rem;
+  }
   .repo.repo-fe4ni9, .repo.repo-fe3ni10, .repo.repo-fe14ni41, .repo.repo-so2-13, .repo.repo-oh-h2o-26 {
     flex: 1 1 50%;
     width: 50%;
@@ -147,10 +150,15 @@ nav_order: 4
 
 {% if site.data.repositories.github_users %}
 
+## Awaruite-style clusters
+
 <div class="repositories repositories-users d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% include repository/fe4ni9_card.liquid %}
   {% include repository/fe3ni10_card.liquid %}
   {% include repository/fe14ni41_card.liquid %}
+</div>
+
+<div class="repositories repositories-users repositories-users-molecular d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% include repository/so2_13_card.liquid %}
   {% include repository/oh_h2o_26_card.liquid %}
 </div>
