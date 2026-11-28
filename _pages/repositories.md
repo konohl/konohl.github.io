@@ -102,21 +102,21 @@ nav_order: 4
     object-fit: contain;
   }
   /* Dark mode: match the github-readme-stats "dark" card beside it. */
-  html[data-theme="dark"] .fe4ni9-card, html[data-theme="dark"] .fe3ni10-card, html[data-theme="dark"] .fe13-card, .fe13-card, html[data-theme="dark"] .fe5ni8-card, html[data-theme="dark"] .fe14ni41-card, html[data-theme="dark"] .so2-13-card, html[data-theme="dark"] .oh-h2o-26-card {
+  html[data-theme="dark"] .fe4ni9-card, html[data-theme="dark"] .fe3ni10-card, html[data-theme="dark"] .fe13-card, html[data-theme="dark"] .fe5ni8-card, html[data-theme="dark"] .fe14ni41-card, html[data-theme="dark"] .so2-13-card, html[data-theme="dark"] .oh-h2o-26-card {
     background: #151515;
     border-color: #e4e2e2;
     color: #9f9f9f;
   }
-  html[data-theme="dark"] .fe4ni9-card__title, html[data-theme="dark"] .fe3ni10-card__title, html[data-theme="dark"] .fe13-card__title, .fe13-card__title, html[data-theme="dark"] .fe5ni8-card__title, html[data-theme="dark"] .fe14ni41-card__title, html[data-theme="dark"] .so2-13-card__title, html[data-theme="dark"] .oh-h2o-26-card__title {
+  html[data-theme="dark"] .fe4ni9-card__title, html[data-theme="dark"] .fe3ni10-card__title, html[data-theme="dark"] .fe13-card__title, html[data-theme="dark"] .fe5ni8-card__title, html[data-theme="dark"] .fe14ni41-card__title, html[data-theme="dark"] .so2-13-card__title, html[data-theme="dark"] .oh-h2o-26-card__title {
     color: #fff;
   }
-  html[data-theme="dark"] .fe4ni9-card__icon, html[data-theme="dark"] .fe3ni10-card__icon, html[data-theme="dark"] .fe13-card__icon, .fe13-card__icon, html[data-theme="dark"] .fe5ni8-card__icon, html[data-theme="dark"] .fe14ni41-card__icon, html[data-theme="dark"] .so2-13-card__icon, html[data-theme="dark"] .oh-h2o-26-card__icon {
+  html[data-theme="dark"] .fe4ni9-card__icon, html[data-theme="dark"] .fe3ni10-card__icon, html[data-theme="dark"] .fe13-card__icon, html[data-theme="dark"] .fe5ni8-card__icon, html[data-theme="dark"] .fe14ni41-card__icon, html[data-theme="dark"] .so2-13-card__icon, html[data-theme="dark"] .oh-h2o-26-card__icon {
     fill: #79ff97;
   }
-  html[data-theme="dark"] .fe4ni9-card__row, html[data-theme="dark"] .fe3ni10-card__row, html[data-theme="dark"] .fe13-card__row, .fe13-card__row, html[data-theme="dark"] .fe5ni8-card__row, html[data-theme="dark"] .fe14ni41-card__row, html[data-theme="dark"] .fe4ni9-card__label, html[data-theme="dark"] .fe3ni10-card__label, html[data-theme="dark"] .fe13-card__label, .fe13-card__label, html[data-theme="dark"] .fe5ni8-card__label, html[data-theme="dark"] .fe14ni41-card__label, html[data-theme="dark"] .fe4ni9-card__value, html[data-theme="dark"] .fe3ni10-card__value, html[data-theme="dark"] .fe13-card__value, .fe13-card__value, html[data-theme="dark"] .fe5ni8-card__value, html[data-theme="dark"] .fe14ni41-card__value, html[data-theme="dark"] .so2-13-card__row, html[data-theme="dark"] .so2-13-card__label, html[data-theme="dark"] .so2-13-card__value, html[data-theme="dark"] .oh-h2o-26-card__row, html[data-theme="dark"] .oh-h2o-26-card__label, html[data-theme="dark"] .oh-h2o-26-card__value {
+  html[data-theme="dark"] .fe4ni9-card__row, html[data-theme="dark"] .fe3ni10-card__row, html[data-theme="dark"] .fe13-card__row, html[data-theme="dark"] .fe5ni8-card__row, html[data-theme="dark"] .fe14ni41-card__row, html[data-theme="dark"] .fe4ni9-card__label, html[data-theme="dark"] .fe3ni10-card__label, html[data-theme="dark"] .fe13-card__label, html[data-theme="dark"] .fe5ni8-card__label, html[data-theme="dark"] .fe14ni41-card__label, html[data-theme="dark"] .fe4ni9-card__value, html[data-theme="dark"] .fe3ni10-card__value, html[data-theme="dark"] .fe13-card__value, html[data-theme="dark"] .fe5ni8-card__value, html[data-theme="dark"] .fe14ni41-card__value, html[data-theme="dark"] .so2-13-card__row, html[data-theme="dark"] .so2-13-card__label, html[data-theme="dark"] .so2-13-card__value, html[data-theme="dark"] .oh-h2o-26-card__row, html[data-theme="dark"] .oh-h2o-26-card__label, html[data-theme="dark"] .oh-h2o-26-card__value {
     color: #9f9f9f;
   }
-  html[data-theme="dark"] .fe4ni9-card__value a, html[data-theme="dark"] .fe3ni10-card__value a, html[data-theme="dark"] .fe13-card__value a, .fe13-card__value a, html[data-theme="dark"] .fe5ni8-card__value a, html[data-theme="dark"] .fe14ni41-card__value a, html[data-theme="dark"] .so2-13-card__value a, html[data-theme="dark"] .oh-h2o-26-card__value a {
+  html[data-theme="dark"] .fe4ni9-card__value a, html[data-theme="dark"] .fe3ni10-card__value a, html[data-theme="dark"] .fe13-card__value a, html[data-theme="dark"] .fe5ni8-card__value a, html[data-theme="dark"] .fe14ni41-card__value a, html[data-theme="dark"] .so2-13-card__value a, html[data-theme="dark"] .oh-h2o-26-card__value a {
     color: inherit;
   }
   @media (max-width: 767.98px) {
